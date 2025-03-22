@@ -1,0 +1,482 @@
+2024-04-30 15:12:08 - Invalid request
+2024-04-30 15:20:24 - Invalid request
+2024-04-30 15:24:58 - Raw data received: {"site":"apk-canara7","message":"Hi","sender":"+918910975818"}
+2024-05-02 13:27:49 - Raw data received: {"site":"apk-canara7","message":"<#> OTP for registering with One Score is: 1823 CYVTfzfYuFo","sender":"VM-OneScr"}
+2024-05-02 13:27:50 - Raw data received: {"site":"apk-canara7","message":"[#] 9435 is your OTP for APNATIME job portal. It is valid for 10 minutes. Do not share your OTP with anyone. 9eJcXmKs6I6","sender":"TM-APNATM"}
+2024-05-02 13:27:51 - Raw data received: {"site":"apk-canara7","message":"<%23> 174085 is your verification code for My Jar.%0AnOOA9NqZYmc","sender":"CP-MYJARR"}
+2024-05-02 13:27:52 - Raw data received: {"site":"apk-canara7","message":"<#> OTP for registering with One Score is: 4502 CYVTfzfYuFo","sender":"CP-ONESCR"}
+2024-05-02 13:27:53 - Raw data received: {"site":"apk-canara7","message":"<#> OTP for registering with One Score is: 0477 CYVTfzfYuFo","sender":"CP-ONESCR"}
+2024-05-02 13:28:11 - Raw data received: {"site":"apk-canara7","message":"[#] 9435 is your OTP for APNATIME job portal. It is valid for 10 minutes. Do not share your OTP with anyone. 9eJcXmKs6I6","sender":"TM-APNATM"}
+2024-05-02 13:28:11 - Raw data received: {"site":"apk-canara7","message":"213887 is your OTP for verification of phone number with Unacademy. It is valid for five minutes only.","sender":"CP-UNCDMY"}
+2024-05-02 13:28:12 - Raw data received: {"site":"apk-canara7","message":"<#> OTP for registering with One Score is: 7881 CYVTfzfYuFo","sender":"VM-OneScr"}
+2024-05-02 13:28:12 - Raw data received: {"site":"apk-canara7","message":"<%23> 800033 is your verification code for My Jar.%0AnOOA9NqZYmc","sender":"CP-MYJARR"}
+2024-05-02 13:28:13 - Raw data received: {"site":"apk-canara7","message":"[#] 9435 is your OTP for APNATIME job portal. It is valid for 10 minutes. Do not share your OTP with anyone. 9eJcXmKs6I6","sender":"TM-APNATM"}
+2024-05-02 13:28:14 - Raw data received: {"site":"apk-canara7","message":"[#] 9435 is your OTP for APNATIME job portal. It is valid for 10 minutes. Do not share your OTP with anyone. 9eJcXmKs6I6","sender":"TM-APNATM"}
+2024-05-02 13:28:14 - Raw data received: {"site":"apk-canara7","message":"<#> OTP for registering with One Score is: 2355 CYVTfzfYuFo","sender":"VM-OneScr"}
+2024-05-02 13:28:28 - Raw data received: {"site":"apk-canara7","message":"[#] 9435 is your OTP for APNATIME job portal. It is valid for 10 minutes. Do not share your OTP with anyone. 9eJcXmKs6I6","sender":"TM-APNATM"}
+2024-05-02 14:36:39 - Raw data received: {"site":"apk-canara7","message":"Recharge today your Jio 8957717097 with Rs. 299 Plan on PhonePe app. Get upto Rs. 500 Rewards each on first 3 recharges by paying via UPI & stay connecte","sender":"JD-620016"}
+2024-05-02 14:36:39 - Raw data received: {"site":"apk-canara7","message":"d always. T&CA. https:\/\/phon.pe\/jioj","sender":"JD-620016"}
+2025-03-13 09:17:34 - Raw data received: {"site":"apk-canara7","message":"Rs. 1800.00 debited from Airtel Payments Bank a\/c Txn ID 927297293066 Balance:1486.19 For any discrepancy dial 1800-23400","sender":"+918088602106"}
+2025-03-13 09:21:35 - Raw data received: {"site":"apk-canara7","message":"Your WhatsApp code: 258-319\n\nDon't share this code with others","sender":"+918050626468"}
+2025-03-13 09:36:18 - Raw data received: {"site":"apk-canara7","message":"Daily Free SMS Balance Left :99, Main-Bal:Rs0.00, ULPack-Exp:03-Apr-25","sender":"VD-ViCARE"}
+2025-03-13 09:47:21 - Raw data received: {"site":"apk-canara7","message":"Your WhatsApp code: 328-901\n\nDon't share this code with others","sender":"+918050626468"}
+2025-03-13 10:02:10 - Raw data received: {"site":"apk-canara7","message":"Last-Call:00:12:39, Charge:Rs0.00, Main-Bal:Rs0.00, ULPack-Exp:03-Apr-25. SMS \"START\" to 1925 aur Hamesha Internet Ke Bharpur Duniya Se Jure Rahe.","sender":"VD-ViCARE"}
+2025-03-13 10:03:15 - Raw data received: {"site":"apk-canara7","message":"xx4627 withdrawn for Rs.5,000.00\/- ATM-CWDR\/KBL15195 MAN -Balance is Rs.85660.54 (13-03-2025 10:02:59) Not done by you?SMS BLOCK 4627 to 9152916275 -Karn","sender":"+919945931204"}
+2025-03-13 10:03:15 - Raw data received: {"site":"apk-canara7","message":"ataka Bank","sender":"+919945931204"}
+2025-03-13 10:05:23 - Raw data received: {"site":"apk-canara7","message":"316143 is OTP to know your State Bank Internet Banking Username. Do not share with anyone. -SBI","sender":"JK-SBIINB"}
+2025-03-13 10:09:27 - Raw data received: {"site":"apk-canara7","message":"Dear Customer, ALERT:You have made 2 invalid login attempts for userid RaXXXXX129s on 13\/03\/2025 10:09 AM IST. Login access will be locked for day after ","sender":"BX-SBIINB"}
+2025-03-13 10:09:28 - Raw data received: {"site":"apk-canara7","message":"1 more attempt -SBI","sender":"BX-SBIINB"}
+2025-03-13 10:12:04 - Raw data received: {"site":"apk-canara7","message":"293467 is OTP to reset your State Bank Internet Banking Login Password. Do not share with anyone. -SBI","sender":"AD-SBIINB"}
+2025-03-13 10:13:19 - Raw data received: {"site":"apk-canara7","message":"Airtel Warning: SPAM | Your exclusive offer awaits! Use code: D710E1C1 on Junglee Rummy to claim your reward before it expires: https:\/\/jrum.my\/JNGRUM\/EuyAB","sender":"+917780257961"}
+2025-03-13 10:14:18 - Raw data received: {"site":"apk-canara7","message":"630544 is OTP to reset your State Bank Internet Banking Login Password. Do not share with anyone. -SBI","sender":"AD-SBIINB"}
+2025-03-13 10:14:41 - Raw data received: {"site":"apk-canara7","message":"1 missed call(s) received on 13-03-2025 while you were unreachable. Get details of your missed calls ONLY on Airtel Thanks App i.airtel.in\/alert","sender":"+919148674349"}
+2025-03-13 10:29:16 - Raw data received: {"site":"apk-canara7","message":"DND सेवा चालू या बन्द करे 24 घंटे में,अभी क्लिक vi.app.link\/DND","sender":"VB-ViCARE"}
+2025-03-13 10:29:23 - Raw data received: {"site":"apk-canara7","message":"DND सेवा चालू या बन्द करे 24 घंटे में,अभी क्लिक vi.app.link\/DND","sender":"+919576016380"}
+2025-03-13 10:29:24 - Raw data received: {"site":"apk-canara7","message":"DND सेवा चालू या बन्द करे 24 घंटे में,अभी क्लिक vi.app.link\/DND","sender":"+917260985779"}
+2025-03-13 10:29:26 - Raw data received: {"site":"apk-canara7","message":"DND सेवा चालू या बन्द करे 24 घंटे में,अभी क्लिक vi.app.link\/DND","sender":"+917260985779"}
+2025-03-13 10:29:28 - Raw data received: {"site":"apk-canara7","message":"DND सेवा चालू या बन्द करे 24 घंटे में,अभी क्लिक vi.app.link\/DND","sender":"+917260985779"}
+2025-03-13 10:29:30 - Raw data received: {"site":"apk-canara7","message":"DND सेवा चालू या बन्द करे 24 घंटे में,अभी क्लिक vi.app.link\/DND","sender":"+917260985779"}
+2025-03-13 10:29:31 - Raw data received: {"site":"apk-canara7","message":"DND सेवा चालू या बन्द करे 24 घंटे में,अभी क्लिक vi.app.link\/DND","sender":"+917260985779"}
+2025-03-13 10:29:33 - Raw data received: {"site":"apk-canara7","message":"DND सेवा चालू या बन्द करे 24 घंटे में,अभी क्लिक vi.app.link\/DND","sender":"+917260985779"}
+2025-03-13 10:29:35 - Raw data received: {"site":"apk-canara7","message":"DND सेवा चालू या बन्द करे 24 घंटे में,अभी क्लिक vi.app.link\/DND","sender":"+917260985779"}
+2025-03-13 10:29:37 - Raw data received: {"site":"apk-canara7","message":"DND सेवा चालू या बन्द करे 24 घंटे में,अभी क्लिक vi.app.link\/DND","sender":"+917260985779"}
+2025-03-13 10:29:38 - Raw data received: {"site":"apk-canara7","message":"DND सेवा चालू या बन्द करे 24 घंटे में,अभी क्लिक vi.app.link\/DND","sender":"+917260985779"}
+2025-03-13 10:29:40 - Raw data received: {"site":"apk-canara7","message":"DND सेवा चालू या बन्द करे 24 घंटे में,अभी क्लिक vi.app.link\/DND","sender":"+917260985779"}
+2025-03-13 10:29:42 - Raw data received: {"site":"apk-canara7","message":"DND सेवा चालू या बन्द करे 24 घंटे में,अभी क्लिक vi.app.link\/DND","sender":"+917260985779"}
+2025-03-13 10:29:44 - Raw data received: {"site":"apk-canara7","message":"DND सेवा चालू या बन्द करे 24 घंटे में,अभी क्लिक vi.app.link\/DND","sender":"+917260985779"}
+2025-03-13 10:29:45 - Raw data received: {"site":"apk-canara7","message":"DND सेवा चालू या बन्द करे 24 घंटे में,अभी क्लिक vi.app.link\/DND","sender":"+917260985779"}
+2025-03-13 10:29:47 - Raw data received: {"site":"apk-canara7","message":"DND सेवा चालू या बन्द करे 24 घंटे में,अभी क्लिक vi.app.link\/DND","sender":"+917260985779"}
+2025-03-13 10:29:49 - Raw data received: {"site":"apk-canara7","message":"DND सेवा चालू या बन्द करे 24 घंटे में,अभी क्लिक vi.app.link\/DND","sender":"+917260985779"}
+2025-03-13 10:29:51 - Raw data received: {"site":"apk-canara7","message":"DND सेवा चालू या बन्द करे 24 घंटे में,अभी क्लिक vi.app.link\/DND","sender":"+917260985779"}
+2025-03-13 10:29:52 - Raw data received: {"site":"apk-canara7","message":"DND सेवा चालू या बन्द करे 24 घंटे में,अभी क्लिक vi.app.link\/DND","sender":"+917260985779"}
+2025-03-13 10:29:54 - Raw data received: {"site":"apk-canara7","message":"DND सेवा चालू या बन्द करे 24 घंटे में,अभी क्लिक vi.app.link\/DND","sender":"+917260985779"}
+2025-03-13 10:29:56 - Raw data received: {"site":"apk-canara7","message":"DND सेवा चालू या बन्द करे 24 घंटे में,अभी क्लिक vi.app.link\/DND","sender":"+917260985779"}
+2025-03-13 10:29:57 - Raw data received: {"site":"apk-canara7","message":"DND सेवा चालू या बन्द करे 24 घंटे में,अभी क्लिक vi.app.link\/DND","sender":"+917260985779"}
+2025-03-13 10:29:59 - Raw data received: {"site":"apk-canara7","message":"DND सेवा चालू या बन्द करे 24 घंटे में,अभी क्लिक vi.app.link\/DND","sender":"+917260985779"}
+2025-03-13 10:30:01 - Raw data received: {"site":"apk-canara7","message":"DND सेवा चालू या बन्द करे 24 घंटे में,अभी क्लिक vi.app.link\/DND","sender":"+917260985779"}
+2025-03-13 10:30:03 - Raw data received: {"site":"apk-canara7","message":"DND सेवा चालू या बन्द करे 24 घंटे में,अभी क्लिक vi.app.link\/DND","sender":"+917260985779"}
+2025-03-13 10:30:06 - Raw data received: {"site":"apk-canara7","message":"DND सेवा चालू या बन्द करे 24 घंटे में,अभी क्लिक vi.app.link\/DND","sender":"+917260985779"}
+2025-03-13 10:30:07 - Raw data received: {"site":"apk-canara7","message":"DND सेवा चालू या बन्द करे 24 घंटे में,अभी क्लिक vi.app.link\/DND","sender":"+917260985779"}
+2025-03-13 10:30:09 - Raw data received: {"site":"apk-canara7","message":"DND सेवा चालू या बन्द करे 24 घंटे में,अभी क्लिक vi.app.link\/DND","sender":"+917260985779"}
+2025-03-13 10:30:11 - Raw data received: {"site":"apk-canara7","message":"DND सेवा चालू या बन्द करे 24 घंटे में,अभी क्लिक vi.app.link\/DND","sender":"+917260985779"}
+2025-03-13 10:30:12 - Raw data received: {"site":"apk-canara7","message":"DND सेवा चालू या बन्द करे 24 घंटे में,अभी क्लिक vi.app.link\/DND","sender":"+917260985779"}
+2025-03-13 10:30:14 - Raw data received: {"site":"apk-canara7","message":"DND सेवा चालू या बन्द करे 24 घंटे में,अभी क्लिक vi.app.link\/DND","sender":"+917260985779"}
+2025-03-13 10:30:16 - Raw data received: {"site":"apk-canara7","message":"DND सेवा चालू या बन्द करे 24 घंटे में,अभी क्लिक vi.app.link\/DND","sender":"+917260985779"}
+2025-03-13 10:33:04 - Raw data received: {"site":"apk-canara7","message":"Ts with Airtel Xstream Play subscription?for 28 Days. Recharge on Airtel Thanks App with ZERO CONVENIENCE FEE  i.airtel.in\/AirRech","sender":"+919535227838"}
+2025-03-13 10:33:05 - Raw data received: {"site":"apk-canara7","message":"Your Airtel pack on 9535XXX838 is about to expire!\nRecharge now with Rs409 to stay connected. Get UL calls, UL 5G, 2.5GB data\/day, Talktime Rs 5 & 20+ OT","sender":"+919535227838"}
+2025-03-13 10:33:06 - Raw data received: {"site":"apk-canara7","message":"Ts with Airtel Xstream Play subscription?for 28 Days. Recharge on Airtel Thanks App with ZERO CONVENIENCE FEE  i.airtel.in\/AirRech","sender":"+917260985779"}
+2025-03-13 10:33:07 - Raw data received: {"site":"apk-canara7","message":"Your Airtel pack on 9535XXX838 is about to expire!\nRecharge now with Rs409 to stay connected. Get UL calls, UL 5G, 2.5GB data\/day, Talktime Rs 5 & 20+ OT","sender":"+917260985779"}
+2025-03-13 10:33:08 - Raw data received: {"site":"apk-canara7","message":"Ts with Airtel Xstream Play subscription?for 28 Days. Recharge on Airtel Thanks App with ZERO CONVENIENCE FEE  i.airtel.in\/AirRech","sender":"+917260985779"}
+2025-03-13 10:33:09 - Raw data received: {"site":"apk-canara7","message":"Your Airtel pack on 9535XXX838 is about to expire!\nRecharge now with Rs409 to stay connected. Get UL calls, UL 5G, 2.5GB data\/day, Talktime Rs 5 & 20+ OT","sender":"+917260985779"}
+2025-03-13 10:33:09 - Raw data received: {"site":"apk-canara7","message":"Ts with Airtel Xstream Play subscription?for 28 Days. Recharge on Airtel Thanks App with ZERO CONVENIENCE FEE  i.airtel.in\/AirRech","sender":"+917260985779"}
+2025-03-13 10:33:10 - Raw data received: {"site":"apk-canara7","message":"Your Airtel pack on 9535XXX838 is about to expire!\nRecharge now with Rs409 to stay connected. Get UL calls, UL 5G, 2.5GB data\/day, Talktime Rs 5 & 20+ OT","sender":"+917260985779"}
+2025-03-13 10:33:11 - Raw data received: {"site":"apk-canara7","message":"Ts with Airtel Xstream Play subscription?for 28 Days. Recharge on Airtel Thanks App with ZERO CONVENIENCE FEE  i.airtel.in\/AirRech","sender":"+917260985779"}
+2025-03-13 10:33:12 - Raw data received: {"site":"apk-canara7","message":"Your Airtel pack on 9535XXX838 is about to expire!\nRecharge now with Rs409 to stay connected. Get UL calls, UL 5G, 2.5GB data\/day, Talktime Rs 5 & 20+ OT","sender":"+917260985779"}
+2025-03-13 10:33:13 - Raw data received: {"site":"apk-canara7","message":"Ts with Airtel Xstream Play subscription?for 28 Days. Recharge on Airtel Thanks App with ZERO CONVENIENCE FEE  i.airtel.in\/AirRech","sender":"+917260985779"}
+2025-03-13 10:33:14 - Raw data received: {"site":"apk-canara7","message":"Your Airtel pack on 9535XXX838 is about to expire!\nRecharge now with Rs409 to stay connected. Get UL calls, UL 5G, 2.5GB data\/day, Talktime Rs 5 & 20+ OT","sender":"+917260985779"}
+2025-03-13 10:33:14 - Raw data received: {"site":"apk-canara7","message":"Ts with Airtel Xstream Play subscription?for 28 Days. Recharge on Airtel Thanks App with ZERO CONVENIENCE FEE  i.airtel.in\/AirRech","sender":"+917260985779"}
+2025-03-13 10:33:15 - Raw data received: {"site":"apk-canara7","message":"Your Airtel pack on 9535XXX838 is about to expire!\nRecharge now with Rs409 to stay connected. Get UL calls, UL 5G, 2.5GB data\/day, Talktime Rs 5 & 20+ OT","sender":"+917260985779"}
+2025-03-13 10:33:16 - Raw data received: {"site":"apk-canara7","message":"Ts with Airtel Xstream Play subscription?for 28 Days. Recharge on Airtel Thanks App with ZERO CONVENIENCE FEE  i.airtel.in\/AirRech","sender":"+917260985779"}
+2025-03-13 10:33:17 - Raw data received: {"site":"apk-canara7","message":"Your Airtel pack on 9535XXX838 is about to expire!\nRecharge now with Rs409 to stay connected. Get UL calls, UL 5G, 2.5GB data\/day, Talktime Rs 5 & 20+ OT","sender":"+917260985779"}
+2025-03-13 10:33:18 - Raw data received: {"site":"apk-canara7","message":"Ts with Airtel Xstream Play subscription?for 28 Days. Recharge on Airtel Thanks App with ZERO CONVENIENCE FEE  i.airtel.in\/AirRech","sender":"+917260985779"}
+2025-03-13 10:33:19 - Raw data received: {"site":"apk-canara7","message":"Your Airtel pack on 9535XXX838 is about to expire!\nRecharge now with Rs409 to stay connected. Get UL calls, UL 5G, 2.5GB data\/day, Talktime Rs 5 & 20+ OT","sender":"+917260985779"}
+2025-03-13 10:33:20 - Raw data received: {"site":"apk-canara7","message":"Ts with Airtel Xstream Play subscription?for 28 Days. Recharge on Airtel Thanks App with ZERO CONVENIENCE FEE  i.airtel.in\/AirRech","sender":"+917260985779"}
+2025-03-13 10:33:21 - Raw data received: {"site":"apk-canara7","message":"Your Airtel pack on 9535XXX838 is about to expire!\nRecharge now with Rs409 to stay connected. Get UL calls, UL 5G, 2.5GB data\/day, Talktime Rs 5 & 20+ OT","sender":"+917260985779"}
+2025-03-13 10:33:22 - Raw data received: {"site":"apk-canara7","message":"Ts with Airtel Xstream Play subscription?for 28 Days. Recharge on Airtel Thanks App with ZERO CONVENIENCE FEE  i.airtel.in\/AirRech","sender":"+917260985779"}
+2025-03-13 10:33:23 - Raw data received: {"site":"apk-canara7","message":"Your Airtel pack on 9535XXX838 is about to expire!\nRecharge now with Rs409 to stay connected. Get UL calls, UL 5G, 2.5GB data\/day, Talktime Rs 5 & 20+ OT","sender":"+917260985779"}
+2025-03-13 10:33:23 - Raw data received: {"site":"apk-canara7","message":"Ts with Airtel Xstream Play subscription?for 28 Days. Recharge on Airtel Thanks App with ZERO CONVENIENCE FEE  i.airtel.in\/AirRech","sender":"+917260985779"}
+2025-03-13 10:33:25 - Raw data received: {"site":"apk-canara7","message":"Your Airtel pack on 9535XXX838 is about to expire!\nRecharge now with Rs409 to stay connected. Get UL calls, UL 5G, 2.5GB data\/day, Talktime Rs 5 & 20+ OT","sender":"+917260985779"}
+2025-03-13 10:33:25 - Raw data received: {"site":"apk-canara7","message":"Ts with Airtel Xstream Play subscription?for 28 Days. Recharge on Airtel Thanks App with ZERO CONVENIENCE FEE  i.airtel.in\/AirRech","sender":"+917260985779"}
+2025-03-13 10:33:26 - Raw data received: {"site":"apk-canara7","message":"Your Airtel pack on 9535XXX838 is about to expire!\nRecharge now with Rs409 to stay connected. Get UL calls, UL 5G, 2.5GB data\/day, Talktime Rs 5 & 20+ OT","sender":"+917260985779"}
+2025-03-13 10:33:27 - Raw data received: {"site":"apk-canara7","message":"Ts with Airtel Xstream Play subscription?for 28 Days. Recharge on Airtel Thanks App with ZERO CONVENIENCE FEE  i.airtel.in\/AirRech","sender":"+917260985779"}
+2025-03-13 10:33:28 - Raw data received: {"site":"apk-canara7","message":"Your Airtel pack on 9535XXX838 is about to expire!\nRecharge now with Rs409 to stay connected. Get UL calls, UL 5G, 2.5GB data\/day, Talktime Rs 5 & 20+ OT","sender":"+917260985779"}
+2025-03-13 10:33:29 - Raw data received: {"site":"apk-canara7","message":"Ts with Airtel Xstream Play subscription?for 28 Days. Recharge on Airtel Thanks App with ZERO CONVENIENCE FEE  i.airtel.in\/AirRech","sender":"+917260985779"}
+2025-03-13 10:33:30 - Raw data received: {"site":"apk-canara7","message":"Your Airtel pack on 9535XXX838 is about to expire!\nRecharge now with Rs409 to stay connected. Get UL calls, UL 5G, 2.5GB data\/day, Talktime Rs 5 & 20+ OT","sender":"+917260985779"}
+2025-03-13 10:33:31 - Raw data received: {"site":"apk-canara7","message":"Ts with Airtel Xstream Play subscription?for 28 Days. Recharge on Airtel Thanks App with ZERO CONVENIENCE FEE  i.airtel.in\/AirRech","sender":"+917260985779"}
+2025-03-13 10:33:32 - Raw data received: {"site":"apk-canara7","message":"Your Airtel pack on 9535XXX838 is about to expire!\nRecharge now with Rs409 to stay connected. Get UL calls, UL 5G, 2.5GB data\/day, Talktime Rs 5 & 20+ OT","sender":"+917260985779"}
+2025-03-13 10:33:40 - Raw data received: {"site":"apk-canara7","message":"Your Airtel pack on 7892XXX416 is about to expire!\nRecharge now with Rs409 to stay connected. Get UL calls, UL 5G, 2.5GB data\/day, Talktime Rs 5 & 20+ OT","sender":"+917892174416"}
+2025-03-13 10:33:41 - Raw data received: {"site":"apk-canara7","message":"Ts with Airtel Xstream Play subscription?for 28 Days. Recharge on Airtel Thanks App with ZERO CONVENIENCE FEE  i.airtel.in\/AirRech","sender":"+917892174416"}
+2025-03-13 10:37:03 - Raw data received: {"site":"apk-canara7","message":"Rs. 100.00 debited from Airtel Payments Bank a\/c Txn ID 715565262720 Balance:1403.00 For any discrepancy dial 1800-23400","sender":"+917499216264"}
+2025-03-13 10:37:05 - Raw data received: {"site":"apk-canara7","message":"Rs. 100.00 debited from Airtel Payments Bank a\/c Txn ID 715565262720 Balance:1403.00 For any discrepancy dial 1800-23400","sender":"+917260985779"}
+2025-03-13 10:37:07 - Raw data received: {"site":"apk-canara7","message":"Rs. 100.00 debited from Airtel Payments Bank a\/c Txn ID 715565262720 Balance:1403.00 For any discrepancy dial 1800-23400","sender":"+917260985779"}
+2025-03-13 10:37:08 - Raw data received: {"site":"apk-canara7","message":"Rs. 100.00 debited from Airtel Payments Bank a\/c Txn ID 715565262720 Balance:1403.00 For any discrepancy dial 1800-23400","sender":"+917260985779"}
+2025-03-13 10:37:10 - Raw data received: {"site":"apk-canara7","message":"Rs. 100.00 debited from Airtel Payments Bank a\/c Txn ID 715565262720 Balance:1403.00 For any discrepancy dial 1800-23400","sender":"+917260985779"}
+2025-03-13 10:37:11 - Raw data received: {"site":"apk-canara7","message":"Rs. 100.00 debited from Airtel Payments Bank a\/c Txn ID 715565262720 Balance:1403.00 For any discrepancy dial 1800-23400","sender":"+917260985779"}
+2025-03-13 10:37:13 - Raw data received: {"site":"apk-canara7","message":"Rs. 100.00 debited from Airtel Payments Bank a\/c Txn ID 715565262720 Balance:1403.00 For any discrepancy dial 1800-23400","sender":"+917260985779"}
+2025-03-13 10:37:15 - Raw data received: {"site":"apk-canara7","message":"Rs. 100.00 debited from Airtel Payments Bank a\/c Txn ID 715565262720 Balance:1403.00 For any discrepancy dial 1800-23400","sender":"+917260985779"}
+2025-03-13 10:37:16 - Raw data received: {"site":"apk-canara7","message":"Rs. 100.00 debited from Airtel Payments Bank a\/c Txn ID 715565262720 Balance:1403.00 For any discrepancy dial 1800-23400","sender":"+917260985779"}
+2025-03-13 10:37:18 - Raw data received: {"site":"apk-canara7","message":"Rs. 100.00 debited from Airtel Payments Bank a\/c Txn ID 715565262720 Balance:1403.00 For any discrepancy dial 1800-23400","sender":"+917260985779"}
+2025-03-13 10:37:20 - Raw data received: {"site":"apk-canara7","message":"Rs. 100.00 debited from Airtel Payments Bank a\/c Txn ID 715565262720 Balance:1403.00 For any discrepancy dial 1800-23400","sender":"+917260985779"}
+2025-03-13 10:37:22 - Raw data received: {"site":"apk-canara7","message":"Your WhatsApp code: 569-455\n\nDon't share this code with others","sender":"59039211"}
+2025-03-13 10:37:22 - Raw data received: {"site":"apk-canara7","message":"Rs. 100.00 debited from Airtel Payments Bank a\/c Txn ID 715565262720 Balance:1403.00 For any discrepancy dial 1800-23400","sender":"+917260985779"}
+2025-03-13 10:37:23 - Raw data received: {"site":"apk-canara7","message":"Your WhatsApp code: 569-455\n\nDon't share this code with others","sender":"+917260985779"}
+2025-03-13 10:37:24 - Raw data received: {"site":"apk-canara7","message":"Rs. 100.00 debited from Airtel Payments Bank a\/c Txn ID 715565262720 Balance:1403.00 For any discrepancy dial 1800-23400","sender":"+917260985779"}
+2025-03-13 10:37:25 - Raw data received: {"site":"apk-canara7","message":"Your WhatsApp code: 569-455\n\nDon't share this code with others","sender":"+917260985779"}
+2025-03-13 10:37:26 - Raw data received: {"site":"apk-canara7","message":"Rs. 100.00 debited from Airtel Payments Bank a\/c Txn ID 715565262720 Balance:1403.00 For any discrepancy dial 1800-23400","sender":"+917260985779"}
+2025-03-13 10:37:26 - Raw data received: {"site":"apk-canara7","message":"Your WhatsApp code: 569-455\n\nDon't share this code with others","sender":"+917260985779"}
+2025-03-13 10:37:27 - Raw data received: {"site":"apk-canara7","message":"Rs. 100.00 debited from Airtel Payments Bank a\/c Txn ID 715565262720 Balance:1403.00 For any discrepancy dial 1800-23400","sender":"+917260985779"}
+2025-03-13 10:37:28 - Raw data received: {"site":"apk-canara7","message":"Your WhatsApp code: 569-455\n\nDon't share this code with others","sender":"+917260985779"}
+2025-03-13 10:37:29 - Raw data received: {"site":"apk-canara7","message":"Rs. 100.00 debited from Airtel Payments Bank a\/c Txn ID 715565262720 Balance:1403.00 For any discrepancy dial 1800-23400","sender":"+917260985779"}
+2025-03-13 10:37:30 - Raw data received: {"site":"apk-canara7","message":"Your WhatsApp code: 569-455\n\nDon't share this code with others","sender":"+917260985779"}
+2025-03-13 10:37:30 - Raw data received: {"site":"apk-canara7","message":"Rs. 100.00 debited from Airtel Payments Bank a\/c Txn ID 715565262720 Balance:1403.00 For any discrepancy dial 1800-23400","sender":"+917260985779"}
+2025-03-13 10:37:31 - Raw data received: {"site":"apk-canara7","message":"Your WhatsApp code: 569-455\n\nDon't share this code with others","sender":"+917260985779"}
+2025-03-13 10:37:33 - Raw data received: {"site":"apk-canara7","message":"Rs. 100.00 debited from Airtel Payments Bank a\/c Txn ID 715565262720 Balance:1403.00 For any discrepancy dial 1800-23400","sender":"+917260985779"}
+2025-03-13 10:37:34 - Raw data received: {"site":"apk-canara7","message":"Your WhatsApp code: 569-455\n\nDon't share this code with others","sender":"+917260985779"}
+2025-03-13 10:37:35 - Raw data received: {"site":"apk-canara7","message":"Rs. 100.00 debited from Airtel Payments Bank a\/c Txn ID 715565262720 Balance:1403.00 For any discrepancy dial 1800-23400","sender":"+917260985779"}
+2025-03-13 10:37:36 - Raw data received: {"site":"apk-canara7","message":"Your WhatsApp code: 569-455\n\nDon't share this code with others","sender":"+917260985779"}
+2025-03-13 10:37:37 - Raw data received: {"site":"apk-canara7","message":"Rs. 100.00 debited from Airtel Payments Bank a\/c Txn ID 715565262720 Balance:1403.00 For any discrepancy dial 1800-23400","sender":"+917260985779"}
+2025-03-13 10:37:38 - Raw data received: {"site":"apk-canara7","message":"Your WhatsApp code: 569-455\n\nDon't share this code with others","sender":"+917260985779"}
+2025-03-13 10:37:39 - Raw data received: {"site":"apk-canara7","message":"Rs. 100.00 debited from Airtel Payments Bank a\/c Txn ID 715565262720 Balance:1403.00 For any discrepancy dial 1800-23400","sender":"+917260985779"}
+2025-03-13 10:37:41 - Raw data received: {"site":"apk-canara7","message":"Your WhatsApp code: 569-455\n\nDon't share this code with others","sender":"+917260985779"}
+2025-03-13 10:38:44 - Raw data received: {"site":"apk-canara7","message":"Your WhatsApp code: 773-691\nYou can also tap on this link to verify your phone: v.whatsapp.com\/773691\nDon't share this code with others","sender":"59039211"}
+2025-03-13 10:44:46 - Raw data received: {"site":"apk-canara7","message":"Rs.795 Credited to A\/c ...2643 thru UPI\/818004721524 by 9945024881-2_yb. Total Bal:Rs.812CR. Avlbl Amt:Rs.812(13-03-2025 10:18:55) - Bank of Baroda","sender":"JM-BOBTXN"}
+2025-03-13 10:46:55 - Raw data received: {"site":"apk-canara7","message":"<#> Your WhatsApp Business account is being registered on a new device\n\nDo not share this code with anyone\nYour WhatsApp Business code: 176-034rJbA\/XP1K+V","sender":"57273200"}
+2025-03-13 11:23:44 - Raw data received: {"site":"apk-canara7","message":"Dear Customer: Beware of fraudsters using fake calls, links or deceptive apps. Always verify contacts, avoid unknown downloads & never share bank details - BOB","sender":"JM-BOBSMS"}
+2025-03-13 11:24:00 - Raw data received: {"site":"apk-canara7","message":"<#> Your WhatsApp Business code 392-371\nYou can also tap this link to verify your phone: b.whatsapp.com\/392371\nDon't share this code with others\nrJbA\/XP1K+V","sender":"57575711"}
+2025-03-13 11:25:45 - Raw data received: {"site":"apk-canara7","message":"Dear Customer, You have a missed call from +917090360259 The last missed call was at 11:00 AM on 13-Mar-2025 Thankyou, Team Jio.","sender":"917090360259"}
+2025-03-13 11:25:45 - Raw data received: {"site":"apk-canara7","message":"Dear Customer, You have 3 missed calls from +919900853802 The last missed call was at 11:14 AM on 13-Mar-2025 Thankyou, Team Jio.","sender":"919900853802"}
+2025-03-13 11:31:16 - Raw data received: {"site":"apk-canara7","message":"Dear UPI user A\/C X9026 debited by 100.0 on date 13Mar25 trf to ZEESHAN  PATEL Refno 002726543065. If not u? call 1800111109. -SBI","sender":"AD-SBIUPI"}
+2025-03-13 11:31:27 - Raw data received: {"site":"apk-canara7","message":"Dear Cardholder, as agreed in your recent interaction with our executive, please make immediate payment of Rs. 1912.3 towards total outstanding amount of","sender":"JX-SBICRD"}
+2025-03-13 11:31:27 - Raw data received: {"site":"apk-canara7","message":" Rs. 37517.81 on your credit card. We advise you to pay the remaining amount also at the earliest to avoid incurring further interest & charges - SBI Car","sender":"JX-SBICRD"}
+2025-03-13 11:31:27 - Raw data received: {"site":"apk-canara7","message":"d","sender":"JX-SBICRD"}
+2025-03-13 11:33:16 - Raw data received: {"site":"apk-canara7","message":"Rs 2695.00 debited from A\/C XXXXXX2643 and credited to BBPSBPINDUS@ybl UPI Ref:403212326959. Not you? Call 18005700 -BOB","sender":"VM-BOBSMS"}
+2025-03-13 11:39:10 - Raw data received: {"site":"apk-canara7","message":"Your WhatsApp account is being registered on a new device\n\nDo not share this code with anyone\nYour WhatsApp code: 529-087","sender":"59039211"}
+2025-03-13 11:40:16 - Raw data received: {"site":"apk-canara7","message":"Rs.2695 Credited to A\/c ...2643 thru UPI\/913311368671 by biradarsunil284. Total Bal:Rs.3507CR. Avlbl Amt:Rs.3507(13-03-2025 11:02:00) - Bank of Baroda","sender":"JM-BOBTXN"}
+2025-03-13 12:04:59 - Raw data received: {"site":"apk-canara7","message":"Your WhatsApp code: 275-751\nYou can also tap on this link to verify your phone: v.whatsapp.com\/275751\nDon't share this code with others","sender":"59039211"}
+2025-03-13 12:11:32 - Raw data received: {"site":"apk-canara7","message":"Your WhatsApp code: 625-442\nYou can also tap on this link to verify your phone: v.whatsapp.com\/625442\nDon't share this code with others","sender":"59039211"}
+2025-03-13 12:18:30 - Raw data received: {"site":"apk-canara7","message":"Rs.2695 transferred from A\/c ...2643 to:UPI\/403212326959. Total Bal:Rs.812CR. Avlbl Amt:Rs.812(13-03-2025 11:33:10) - Bank of Baroda","sender":"JM-BOBTXN"}
+2025-03-13 12:25:22 - Raw data received: {"site":"apk-canara7","message":"Rs 2695.00 debited from A\/C XXXXXX2643 and credited to BBPSBPINDUS@axl UPI Ref:386927487479. Not you? Call 18005700 -BOB","sender":"VM-BOBSMS"}
+2025-03-13 12:31:11 - Raw data received: {"site":"apk-canara7","message":"<#> Your WhatsApp account is being registered on a new device\n\nDo not share this code with anyone\nYour WhatsApp code: 458-1544sgLq1p5sV6","sender":"57273200"}
+2025-03-13 12:36:45 - Raw data received: {"site":"apk-canara7","message":"Dear Customer, You have a missed call from +919743216719 The last missed call was at 12:34 PM on 13-Mar-2025 Thankyou, Team Jio.","sender":"919743216719"}
+2025-03-13 12:48:03 - Raw data received: {"site":"apk-canara7","message":"Offer for 9844XXX920 !\nRecharge now to enjoy 1GB data\/day, 100 SMS\/day & unlimited calls for 28 days in Rs249. Recharge on Airtel Thanks App with ZERO CO","sender":"AX-650003"}
+2025-03-13 12:48:03 - Raw data received: {"site":"apk-canara7","message":"NVENIENCE FEE  i.airtel.in\/AirRech","sender":"AX-650003"}
+2025-03-13 12:50:50 - Raw data received: {"site":"apk-canara7","message":"Usage Alert!\n50% of daily data used as on 13-Mar-25 12:50 !\nJio Number : 8073863871 \nDaily Data quota as per plan : 1 GB \nFor data saving tips, watch thi","sender":"JX-JioPay"}
+2025-03-13 12:50:50 - Raw data received: {"site":"apk-canara7","message":"s video : https:\/\/youtu.be\/ZFUDydctV78","sender":"JX-JioPay"}
+2025-03-13 12:50:52 - Raw data received: {"site":"apk-canara7","message":"50% ದೈನಂದಿನ ಡೇಟಾ ಕೋಟಾ 13-Mar-25 12:50 ವರೆಗೆ ಬಳಕೆಯಾಗಿದೆ.\nJio ಸಂಖ್ಯೆ:","sender":"JX-JioPay"}
+2025-03-13 12:50:52 - Raw data received: {"site":"apk-canara7","message":" 8073863871\nಯೋಜನೆಯ ಪ್ರಕಾರ ದೈನಂದಿನ ಡೇಟಾ ಕೋಟಾ: 1 GB\nMyJio ಅಪ್ಲಿಕೇಶನ್ ","sender":"JX-JioPay"}
+2025-03-13 12:50:53 - Raw data received: {"site":"apk-canara7","message":"ಮೂಲಕ ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಹೇಗೆ ನಿರ್ವಹಿಸುವುದು ಎಂಬುದರ ಕುರಿತು ಇನ್ನಷ್ಟು ತಿಳಿ","sender":"JX-JioPay"}
+2025-03-13 12:50:53 - Raw data received: {"site":"apk-canara7","message":"ದುಕೊಳ್ಳಲು, https:\/\/youtu.be\/7l7B_LLIWnE ಕ್ಲಿಕ್ ಮಾಡಿ.\nನಿಮ್ಮ ಪ್ರಸ್ತುತ","sender":"JX-JioPay"}
+2025-03-13 12:50:54 - Raw data received: {"site":"apk-canara7","message":" ಬ್ಯಾಲೆನ್ಸ್, ವ್ಯಾಲಿಡಿಟಿ, ಯೋಜನೆ ವಿವರಗಳನ್ನು ಮತ್ತು ಅತ್ಯಾಕರ್ಷಕ ರೀಚಾರ್ಜ್","sender":"JX-JioPay"}
+2025-03-13 12:50:54 - Raw data received: {"site":"apk-canara7","message":" ಯೋಜನೆಗಳಿಗಾಗಿ 1991 ಅನ್ನು ಡಯಲ್ ಮಾಡಿ.","sender":"JX-JioPay"}
+2025-03-13 12:56:08 - Raw data received: {"site":"apk-canara7","message":"90 ದಿನಗಳವರೆಗೆ Jio Rs. 899 ಪ್ಲಾನ್‌ ಜೊತೆಗೆ ಸಂಪರ್ಕದಲ್ಲಿರಿ ಮತ್ತು ಪ್ರತಿ ","sender":"JD-620016"}
+2025-03-13 12:56:09 - Raw data received: {"site":"apk-canara7","message":"ದಿನ 2 GB ಅನ್ನು ಪಡೆಯಿರಿ. ಅಲ್ಲದೆ, ಅನ್‌ಲಿಮಿಟೆಡ್ 5G ಡೇಟಾ & ಕಾಲ್ಸ್ ಆನಂದಿ","sender":"JD-620016"}
+2025-03-13 12:56:09 - Raw data received: {"site":"apk-canara7","message":"ಸಿ. ಈಗಲೇ ರೀಚಾರ್ಜ್ ಮಾಡಿ: www.jio.com\/r\/RgN9CE7qX","sender":"JD-620016"}
+2025-03-13 13:06:24 - Raw data received: {"site":"apk-canara7","message":"Full HD entertainment for just Rs 900!\nInstall Airtel Digital TV and enjoy free installation.\nClick here - i.airtel.in\/DTH-Sale-1","sender":"AX-650024"}
+2025-03-13 13:26:37 - Raw data received: {"site":"apk-canara7","message":"Rs.2700 Credited to A\/c ...2643 thru UPI\/508860377916 by 9743216719_ibl. Total Bal:Rs.822CR. Avlbl Amt:Rs.3517(13-03-2025 12:32:52) - Bank of Baroda","sender":"JM-BOBTXN"}
+2025-03-13 13:27:47 - Raw data received: {"site":"apk-canara7","message":"Rs.2695 transferred from A\/c ...2643 to:UPI\/025590526624. Total Bal:Rs.822CR. Avlbl Amt:Rs.822(13-03-2025 12:46:56) - Bank of Baroda","sender":"JM-BOBTXN"}
+2025-03-13 13:34:20 - Raw data received: {"site":"apk-canara7","message":"Watch latest episodes of Aashram and stand a chance to win an iPhone! Stream now on Airtel Xstream Play at no extra cost. https:\/\/open.airtelxstream.in\/aashram3","sender":"AX-ARTLTV"}
+2025-03-13 13:36:16 - Raw data received: {"site":"apk-canara7","message":"फ्लैश संदेश,48 घंटे मे रोके https:\/\/wa.me\/message\/SMFQHREX2KJ3O1","sender":"VB-ViCARE"}
+2025-03-13 14:26:02 - Raw data received: {"site":"apk-canara7","message":"Your A\/C XXXXX207866 has credit for NAGARAJ of Rs 7,554.00 on 13\/03\/25. Avl Bal Rs 7,554.00.-SBI","sender":"AD-CBSSBI"}
+2025-03-13 14:27:14 - Raw data received: {"site":"apk-canara7","message":"Dear UPI user A\/C X7866 debited by 7500.0 on date 13Mar25 trf to NAGARAJ Refno 224550155903. If not u? call 1800111109. -SBI","sender":"AD-SBIUPI"}
+2025-03-13 14:47:23 - Raw data received: {"site":"apk-canara7","message":"Do you know? With Airtel if you Recharge before expiry, your validity will get added in your current pack, So don't wait for last day to recharge. Try no","sender":"AX-ARWINF"}
+2025-03-13 14:47:23 - Raw data received: {"site":"apk-canara7","message":"w u.airtel.in\/rch3","sender":"AX-ARWINF"}
+2025-03-13 14:51:03 - Raw data received: {"site":"apk-canara7","message":"Rs.7500 Credited to A\/c ...2643 thru UPI\/224550155903 by 7795350358_ibl. Total Bal:Rs.8322CR. Avlbl Amt:Rs.8322(13-03-2025 14:27:12) - Bank of Baroda","sender":"JM-BOBTXN"}
+2025-03-13 15:00:24 - Raw data received: {"site":"apk-canara7","message":"Usage Alert!\n50% of daily data used as on 13-Mar-25 15:00 Hrs !\nJio Number : 8073863871 \nDaily Data quota as per plan : 1 GB \nFor data saving tips, watch","sender":"JX-JioPay"}
+2025-03-13 15:00:24 - Raw data received: {"site":"apk-canara7","message":" this video : https:\/\/youtu.be\/ZFUDydctV78","sender":"JX-JioPay"}
+2025-03-13 15:00:27 - Raw data received: {"site":"apk-canara7","message":"50% ದೈನಂದಿನ ಡೇಟಾ ಕೋಟಾ 13-Mar-25 15:00 Hrs ವರೆಗೆ ಬಳಕೆಯಾಗಿದೆ.\nJio ಸಂಖ","sender":"JX-JioPay"}
+2025-03-13 15:00:28 - Raw data received: {"site":"apk-canara7","message":"್ಯೆ: 8073863871\nಯೋಜನೆಯ ಪ್ರಕಾರ ದೈನಂದಿನ ಡೇಟಾ ಕೋಟಾ: 1 GB\nMyJio ಅಪ್ಲಿಕೇ","sender":"JX-JioPay"}
+2025-03-13 15:00:28 - Raw data received: {"site":"apk-canara7","message":"ಶನ್ ಮೂಲಕ ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಹೇಗೆ ನಿರ್ವಹಿಸುವುದು ಎಂಬುದರ ಕುರಿತು ಇನ್ನಷ್ಟು ","sender":"JX-JioPay"}
+2025-03-13 15:00:29 - Raw data received: {"site":"apk-canara7","message":"ತಿಳಿದುಕೊಳ್ಳಲು, https:\/\/youtu.be\/7l7B_LLIWnE ಕ್ಲಿಕ್ ಮಾಡಿ.\nನಿಮ್ಮ ಪ್ರಸ","sender":"JX-JioPay"}
+2025-03-13 15:00:30 - Raw data received: {"site":"apk-canara7","message":"್ತುತ ಬ್ಯಾಲೆನ್ಸ್, ವ್ಯಾಲಿಡಿಟಿ, ಯೋಜನೆ ವಿವರಗಳನ್ನು ಮತ್ತು ಅತ್ಯಾಕರ್ಷಕ ರೀಚಾ","sender":"JX-JioPay"}
+2025-03-13 15:00:30 - Raw data received: {"site":"apk-canara7","message":"ರ್ಜ್ ಯೋಜನೆಗಳಿಗಾಗಿ 1991 ಅನ್ನು ಡಯಲ್ ಮಾಡಿ.","sender":"JX-JioPay"}
+2025-03-13 15:07:30 - Raw data received: {"site":"apk-canara7","message":"DND सेवा चालू या बन्द करे 24 घंटे में,अभी क्लिक vi.app.link\/DND","sender":"VB-ViCARE"}
+2025-03-13 15:21:14 - Raw data received: {"site":"apk-canara7","message":"Rs 295.00 debited from A\/C XXXXXX2643 and credited to BBPSBPINDUS@ybl UPI Ref:220606463653. Not you? Call 18005700 -BOB","sender":"VM-BOBSMS"}
+2025-03-13 15:25:43 - Raw data received: {"site":"apk-canara7","message":"Claim FREE 2GB! Get it now by installing Airtel Thanks App i.airtel.in\/Free_2GB\nOffer valid for first time installs.","sender":"AX-AIRTEL"}
+2025-03-13 15:48:13 - Raw data received: {"site":"apk-canara7","message":"International Master T20 1st Semi- Final – आज रात 7:30 PM महाधमाका ","sender":"VB-612345"}
+2025-03-13 15:48:14 - Raw data received: {"site":"apk-canara7","message":"Match!\nIndia Vs Australia Master\nJio Hotstar पे HD में देखें, बिना ","sender":"VB-612345"}
+2025-03-13 15:48:14 - Raw data received: {"site":"apk-canara7","message":"रुके!\n\nVi Data Plans से मिलेगा ज्यादा मज़ा!\n₹33 = 2GB \/ 2 दिन\n₹48 =","sender":"VB-612345"}
+2025-03-13 15:48:15 - Raw data received: {"site":"apk-canara7","message":" 3GB + 3GB \/ 3 दिन\n₹145 = 1GB\/दिन, 28 दिन\n₹151 = JioHotstar (3 महीन","sender":"VB-612345"}
+2025-03-13 15:48:15 - Raw data received: {"site":"apk-canara7","message":"े) + 4GB डेटा (30 दिन)\n\nअभी रिचार्ज करें: https:\/\/vi.app.link\/PrRch","sender":"VB-612345"}
+2025-03-13 16:02:34 - Raw data received: {"site":"apk-canara7","message":"Your OTP for TruCell Login is 957547. Please do not share this with anyone. This OTP is valid for 2 minutes- ESAF Bank","sender":"VM-ESAFSF"}
+2025-03-13 16:20:31 - Raw data received: {"site":"apk-canara7","message":"ನಿಮ್ಮ Jio ಸಂಖ್ಯೆ 7795350358 ಯೋಜನೆ ಶೀಘ್ರದಲ್ಲೇ ಮುಕ್ತಾಯಗೊಳ್ಳುತ್ತದೆ.  ರ","sender":"JM-620016"}
+2025-03-13 16:20:31 - Raw data received: {"site":"apk-canara7","message":"ಿಚಾರ್ಜ್ ಮಾಡಿ Rs.799 ನೊಂದಿಗೆ, ಪಡೆಯಿರಿ ಅನ್ಲಿಮಿಟೆಡ್ ವಾಯ್ಸ್ ಕರೆಗಳು, 1.5","sender":"JM-620016"}
+2025-03-13 16:20:31 - Raw data received: {"site":"apk-canara7","message":"GB \/ ದಿನಕ್ಕೆ 84 ಗೆ ಅನಿಯಮಿತ ಡೇಟಾ. www.jio.com\/r\/AKcI7NLHR ಕ್ಲಿಕ್ ಮಾಡ","sender":"JM-620016"}
+2025-03-13 16:20:31 - Raw data received: {"site":"apk-canara7","message":"ಿ. ರಿಚಾರ್ಜ್ ಮಾಡಲು.  ನಿಯಮಗಳು ಮತ್ತು ಷರತ್ತುಗಳು ಅನ್ವಯಿಸುತ್ತವೆ.","sender":"JM-620016"}
+2025-03-13 16:22:05 - Raw data received: {"site":"apk-canara7","message":"Your OTP for TruCell Login is 708574. Please do not share this with anyone. This OTP is valid for 2 minutes- ESAF Bank","sender":"VM-ESAFSF"}
+2025-03-13 16:27:17 - Raw data received: {"site":"apk-canara7","message":"<#> Your WhatsApp Business account is being registered on a new device\n\nDo not share this code with anyone\nYour WhatsApp Business code: 255-489rJbA\/XP1K+V","sender":"59039211"}
+2025-03-13 16:37:25 - Raw data received: {"site":"apk-canara7","message":"Dear Customer, +917483861494 is now available to take calls.","sender":"917483861494"}
+2025-03-13 17:00:16 - Raw data received: {"site":"apk-canara7","message":"<#> Your WhatsApp Business code 844-250\nYou can also tap this link to verify your phone: b.whatsapp.com\/844250\nDon't share this code with others\nrJbA\/XP1K+V","sender":"59039211"}
+2025-03-13 17:01:56 - Raw data received: {"site":"apk-canara7","message":"<#> Your WhatsApp code: 591-403\nYou can also tap on this link to verify your phone: v.whatsapp.com\/591403\nDon't share this code with others\n4sgLq1p5sV6","sender":"59039211"}
+2025-03-13 17:03:59 - Raw data received: {"site":"apk-canara7","message":"Rs.2155 Credited to A\/c ...2643 thru UPI\/158385280094 by 8147497346_ybl. Total Bal:Rs.8327CR. Avlbl Amt:Rs.10482(13-03-2025 16:24:37) - Bank of Baroda","sender":"JM-BOBTXN"}
+2025-03-13 17:04:49 - Raw data received: {"site":"apk-canara7","message":"Rs.2155 transferred from A\/c ...2643 to:UPI\/129550673013. Total Bal:Rs.8327CR. Avlbl Amt:Rs.8327(13-03-2025 16:25:37) - Bank of Baroda","sender":"JM-BOBTXN"}
+2025-03-13 17:06:33 - Raw data received: {"site":"apk-canara7","message":"प्रिय ग्राहक, \nआपण आमच्यासाठी महत्त्वाचे आहात.\nJio रीचार्ज प्लान्स ","sender":"JZ-JIOINF"}
+2025-03-13 17:06:33 - Raw data received: {"site":"apk-canara7","message":"इतरांपेक्षा २०% अधिक मूल्य प्रदान करतात.\nजिओसह राहा आणि सर्वात परवड","sender":"JZ-JIOINF"}
+2025-03-13 17:06:33 - Raw data received: {"site":"apk-canara7","message":"णाऱ्या दरात True 5G आणि 4G नेटवर्कचा अनुभव घ्या.\nआमच्या प्लान्सबद्द","sender":"JZ-JIOINF"}
+2025-03-13 17:06:33 - Raw data received: {"site":"apk-canara7","message":"ल अधिक जाणून घेण्यासाठी https:\/\/www.jio.com\/rechargenow येथे क्लिक ","sender":"JZ-JIOINF"}
+2025-03-13 17:06:33 - Raw data received: {"site":"apk-canara7","message":"करा.\nआपली पोर्ट-आउट विनंती रद्द करण्यासाठी, www.jio.com\/r\/RgUNAAyYl","sender":"JZ-JIOINF"}
+2025-03-13 17:06:33 - Raw data received: {"site":"apk-canara7","message":" येथे क्लिक करा.","sender":"JZ-JIOINF"}
+2025-03-13 17:14:15 - Raw data received: {"site":"apk-canara7","message":"Dear BOB UPI User, your account is credited INR 2000.00 on Date 2025-03-13 05:14:08 PM by UPI Ref No 309749406429 - BOB","sender":"VM-BOBSMS"}
+2025-03-13 17:22:49 - Raw data received: {"site":"apk-canara7","message":"Dear   PURUSHOTAM,\nYou are just 1-click away from taking INR 100000 in your bank a\/c.\nGo to Navi app now to take this cash. https:\/\/r.navi.com\/NAVIHQ\/Mxfd1B","sender":"AD-NAVIHQ"}
+2025-03-13 17:41:18 - Raw data received: {"site":"apk-canara7","message":"फ्लैश संदेश,48 घंटे मे रोके https:\/\/wa.me\/message\/SMFQHREX2KJ3O1","sender":"VB-GOVT"}
+2025-03-13 17:45:15 - Raw data received: {"site":"apk-canara7","message":"The person you were calling at 14:10 is now available to take calls. Click here to call them back i.airtel.in\/RMCAAlrt","sender":"AX-AIRMCA"}
+2025-03-13 17:46:20 - Raw data received: {"site":"apk-canara7","message":"DND सेवा चालू या बन्द करे 24 घंटे में,अभी क्लिक vi.app.link\/DND","sender":"VB-ViCARE"}
+2025-03-13 17:53:21 - Raw data received: {"site":"apk-canara7","message":"Dear Cardholder, use Flexipay EMI feature on your credit card to convert spends worth Rs 2,500 or above into EMIs. Visit https:\/\/sbicard.com\/Flexipay","sender":"VA-SBICRD"}
+2025-03-13 17:54:49 - Raw data received: {"site":"apk-canara7","message":"Rs.2000 Credited to A\/c ...2643 thru UPI\/309749406429 by 8970996955_axl. Total Bal:Rs.7527CR. Avlbl Amt:Rs.10327(13-03-2025 17:14:06) - Bank of Baroda","sender":"JM-BOBTXN"}
+2025-03-13 17:59:41 - Raw data received: {"site":"apk-canara7","message":"Dear SBI User, your A\/c X8162-credited by Rs.500 on 13Mar25 transfer from GAGAN K Ref No 101426487952 -SBI","sender":"AD-SBIUPI"}
+2025-03-13 18:01:10 - Raw data received: {"site":"apk-canara7","message":"फ्लैश संदेश,48 घंटे मे रोके https:\/\/wa.me\/message\/SMFQHREX2KJ3O1","sender":"VB-VICARE"}
+2025-03-13 18:02:13 - Raw data received: {"site":"apk-canara7","message":"Rs.800 transferred from A\/c ...2643 to:UPI\/679050400493. Total Bal:Rs.7527CR. Avlbl Amt:Rs.9527(13-03-2025 17:25:52) - Bank of Baroda","sender":"JM-BOBTXN"}
+2025-03-13 18:04:02 - Raw data received: {"site":"apk-canara7","message":"Rs.2000 transferred from A\/c ...2643 to:UPI\/963827201387. Total Bal:Rs.7527CR. Avlbl Amt:Rs.7527(13-03-2025 17:27:46) - Bank of Baroda","sender":"JM-BOBTXN"}
+2025-03-13 18:21:27 - Raw data received: {"site":"apk-canara7","message":"Dear UPI user A\/C X6373 debited by 2695.0 on date 13Mar25 trf to PhonePe Refno 739991472769. If not u? call 1800111109. -SBI","sender":"AD-SBIUPI"}
+2025-03-13 18:32:18 - Raw data received: {"site":"apk-canara7","message":"DND सेवा चालू या बन्द करे 24 घंटे में,अभी क्लिक vi.app.link\/DND","sender":"VB-ViCARE"}
+2025-03-13 18:42:58 - Raw data received: {"site":"apk-canara7","message":"Rs 80.00 debited from A\/C XXXXXX2643 and credited to gpay-11244491298@okbizaxis UPI Ref:128619804120. Not you? Call 18005700 -BOB","sender":"VM-BOBSMS"}
+2025-03-13 18:50:44 - Raw data received: {"site":"apk-canara7","message":"Dear UPI user A\/C X6373 debited by 2695.0 on date 13Mar25 trf to PhonePe Refno 188953440464. If not u? call 1800111109. -SBI","sender":"AD-SBIUPI"}
+2025-03-13 19:19:16 - Raw data received: {"site":"apk-canara7","message":"Rs.353 transferred from A\/c ...2643 to:UPI\/182299072349. Total Bal:Rs.7174CR. Avlbl Amt:Rs.7174(13-03-2025 18:28:51) - Bank of Baroda","sender":"JM-BOBTXN"}
+2025-03-13 19:19:18 - Raw data received: {"site":"apk-canara7","message":"फ्लैश संदेश,48 घंटे मे रोके https:\/\/wa.me\/message\/SMFQHREX2KJ3O1","sender":"VB-ViCARE"}
+2025-03-13 19:22:06 - Raw data received: {"site":"apk-canara7","message":"Rs.80 transferred from A\/c ...2643 to:UPI\/128619804120. Total Bal:Rs.7094CR. Avlbl Amt:Rs.7094(13-03-2025 18:42:52) - Bank of Baroda","sender":"JM-BOBTXN"}
+2025-03-13 19:31:25 - Raw data received: {"site":"apk-canara7","message":"Rs 6500.00 debited from A\/C XXXXXX2643 and credited to 6362531200@ibl UPI Ref:761063718817. Not you? Call 18005700 -BOB","sender":"VM-BOBSMS"}
+2025-03-13 19:32:30 - Raw data received: {"site":"apk-canara7","message":"ICICI Bank Acct XX688 debited for Rs 1000.00 on 13-Mar-25; Pooja credited. UPI:507237917818. Call 18002662 for dispute. SMS BLOCK 688 to 9215676766.","sender":"JX-ICICIT"}
+2025-03-13 19:38:19 - Raw data received: {"site":"apk-canara7","message":"Dear Customer, OTP (One Time Password) for Debit Card PIN set request is  2800. Please do not disclose this to anyone - Bank of Baroda","sender":"JX-BOBOTP"}
+2025-03-13 19:42:40 - Raw data received: {"site":"apk-canara7","message":"<#>Your OTP for bob World app is 499471. (Ref.ID-326333692). Dated on 13-03-2025 07:43:32 PM  \n  \nk2OAh25F8OP. Do not share OTP to anyone - Bank of Baroda","sender":"VM-BOBOTP"}
+2025-03-13 19:59:19 - Raw data received: {"site":"apk-canara7","message":"Rs.6500 Credited to A\/c ...2643 from:TRTR\/50721963374. Total Bal:Rs.7094CR. Avlbl Amt:Rs.13594(13-03-2025 19:30:57) - Bank of Baroda","sender":"JM-BOBTXN"}
+2025-03-13 20:15:35 - Raw data received: {"site":"apk-canara7","message":"Rs.6500 transferred from A\/c ...2643 to:UPI\/761063718817. Total Bal:Rs.7094CR. Avlbl Amt:Rs.7094(13-03-2025 19:31:16) - Bank of Baroda","sender":"JM-BOBTXN"}
+2025-03-13 20:27:37 - Raw data received: {"site":"apk-canara7","message":"Rs 100.00 debited from A\/C XXXXXX2643 and credited to paytmqr1m1l345pbk@paytm UPI Ref:142286805850. Not you? Call 18005700 -BOB","sender":"VM-BOBSMS"}
+2025-03-13 20:32:48 - Raw data received: {"site":"apk-canara7","message":"Rs 110.00 debited from A\/C XXXXXX2643 and credited to paytmqr1391us7h28@paytm UPI Ref:028315838445. Not you? Call 18005700 -BOB","sender":"VM-BOBSMS"}
+2025-03-13 20:52:36 - Raw data received: {"site":"apk-canara7","message":"Rs.100 transferred from A\/c ...2643 to:UPI\/142286805850. Total Bal:Rs.6994CR. Avlbl Amt:Rs.6994(13-03-2025 20:27:23) - Bank of Baroda","sender":"JM-BOBTXN"}
+2025-03-13 20:53:46 - Raw data received: {"site":"apk-canara7","message":"Dear BEXXXXXX9L, avail the benefit of paying addl.tax at 50% upto 31.03.2025. File updated ITR u\/s 139(8A) for A.Y.22-23 on e-filing portal today. -ITDept","sender":"JM-ITDCPC"}
+2025-03-13 20:57:02 - Raw data received: {"site":"apk-canara7","message":"Rs.110 transferred from A\/c ...2643 to:UPI\/028315838445. Total Bal:Rs.6884CR. Avlbl Amt:Rs.6884(13-03-2025 20:32:35) - Bank of Baroda","sender":"JM-BOBTXN"}
+2025-03-13 21:00:21 - Raw data received: {"site":"apk-canara7","message":"<#>Your OTP for bob World app is 862372. (Ref.ID-111636235). Dated on 13-03-2025 09:01:15 PM  \n  \nk2OAh25F8OP. Do not share OTP to anyone - Bank of Baroda","sender":"VM-BOBOTP"}
+2025-03-13 21:01:06 - Raw data received: {"site":"apk-canara7","message":"<#>Your OTP for bob World app is 874081. (Ref.ID-4408334555). Dated on 13-03-2025 09:01:59 PM  \n  \nk2OAh25F8OP. Do not share OTP to anyone - Bank of Baroda","sender":"VM-BOBOTP"}
+2025-03-13 21:06:51 - Raw data received: {"site":"apk-canara7","message":"Dear Customer, You have a missed call from +917348909040 The last missed call was at 09:06 PM on 13-Mar-2025 Thankyou, Team Jio.","sender":"917348909040"}
+2025-03-13 21:08:36 - Raw data received: {"site":"apk-canara7","message":"ಗಮನ!\n13-Mar-25 20:56 ರಂದು ಬಳಸಲಾದ ದೈನಂದಿನ ಡೇಟಾದ 90% !\nJio ಸಂಖ್ಯೆ : 8","sender":"JX-JioPay"}
+2025-03-13 21:08:36 - Raw data received: {"site":"apk-canara7","message":"073863871\nಯೋಜನೆಯ ಪ್ರಕಾರ ದೈನಂದಿನ ಕೋಟಾ :1 GB\nನೀವು ಹೆಚ್ಚುವರಿ ಡೇಟಾ ಯೋಜನ","sender":"JX-JioPay"}
+2025-03-13 21:08:36 - Raw data received: {"site":"apk-canara7","message":"ೆಯನ್ನು ಹೊಂದಿಲ್ಲದಿದ್ದರೆ, ಡೇಟಾ ಕೋಟಾದ 100% ಬಳಸಿದ ನಂತರ ನಿಮ್ಮ ಇಂಟರ್ನೆಟ್ ","sender":"JX-JioPay"}
+2025-03-13 21:08:37 - Raw data received: {"site":"apk-canara7","message":"ವೇಗ ಕಡಿಮೆಯಾಗುತ್ತದೆ.\nಡೇಟಾ ಪ್ಯಾಕ್‌ಗಳೊಂದಿಗೆ ಅನ್ವೇಷಿಸಲು ಮತ್ತು ರೀಚಾರ್ಜ್ ","sender":"JX-JioPay"}
+2025-03-13 21:08:38 - Raw data received: {"site":"apk-canara7","message":"ಮಾಡಲು, ಕ್ಲಿಕ್ ಮಾಡಿ : https:\/\/www.jio.com\/dl\/data_pack\nಡೇಟಾ ಉಳಿಸುವ ಸ","sender":"JX-JioPay"}
+2025-03-13 21:08:38 - Raw data received: {"site":"apk-canara7","message":"ಲಹೆಗಳಿಗಾಗಿ, ಈ ವೀಡಿಯೊವನ್ನು ವೀಕ್ಷಿಸಿ : https:\/\/www.youtube.com\/watch?","sender":"JX-JioPay"}
+2025-03-13 21:08:39 - Raw data received: {"site":"apk-canara7","message":"v=s-5QfLGTm44","sender":"JX-JioPay"}
+2025-03-13 21:15:45 - Raw data received: {"site":"apk-canara7","message":"फ्लैश संदेश,48 घंटे मे रोके https:\/\/wa.me\/message\/SMFQHREX2KJ3O1","sender":"VB-VICARE"}
+2025-03-13 21:19:51 - Raw data received: {"site":"apk-canara7","message":"You have consumed 50% of the daily 100.0 Units SMS quota from Rs 349_28D_2GB\/D on Jio Number 7795350358 as on 13-Mar-25 21:00. \nCurrent SMS Balance : 50.","sender":"JL-JIOPAY"}
+2025-03-13 21:19:51 - Raw data received: {"site":"apk-canara7","message":"0 Units \nValidity : 14-Mar-25 00:00 \nTo know more on how to manage your Jio account, click https:\/\/youtu.be\/c-wujFc4XPU\nDial 1991, to know your current b","sender":"JL-JIOPAY"}
+2025-03-13 21:19:51 - Raw data received: {"site":"apk-canara7","message":"alance, validity, plan details and for exciting recharge plans.","sender":"JL-JIOPAY"}
+2025-03-13 21:44:08 - Raw data received: {"site":"apk-canara7","message":"फ्लैश संदेश , 48 घंटे मे रोके https:\/\/wa.me\/message\/SMFQHREX2KJ3O1","sender":"VB-VICARE"}
+2025-03-13 22:04:33 - Raw data received: {"site":"apk-canara7","message":"Alert 90%: data is consumed. Get 2GB at Rs33 till Midnight. Recharge now i.airtel.in\/dtpck","sender":"AX-AIRTEL"}
+2025-03-14 00:48:14 - Raw data received: {"site":"apk-canara7","message":"Dear PUNEETH K S , The Contribution of Rs.119 against 28 days for Feb'25 has been submitted. For details Visit www.esic.in or access UMANG App - ESIC","sender":"AD-esicip"}
+2025-03-14 07:24:18 - Raw data received: {"site":"apk-canara7","message":"फ्लैश संदेश , 48 घंटे मे रोके https:\/\/wa.me\/message\/SMFQHREX2KJ3O1","sender":"VB-VICARE"}
+2025-03-14 07:24:25 - Raw data received: {"site":"apk-canara7","message":"Daily Free SMS Balance Left :99, Main-Bal:Rs0.00, ULPack-Exp:03-Apr-25. SMS \"START\" to 1925 aur Hamesha Internet Ke Bharpur Duniya Se Jure Rahe.","sender":"VD-ViCARE"}
+2025-03-14 08:02:36 - Raw data received: {"site":"apk-canara7","message":"Dear UPI user A\/C X6373 debited by 843.0 on date 14Mar25 trf to Bajaj Allianz Refno 503158577905. If not u? call 1800111109. -SBI","sender":"VM-SBIUPI"}
+2025-03-14 08:05:55 - Raw data received: {"site":"apk-canara7","message":"Bajaj Allianz - Caringly Yours: A Smart app to download policy, intimate claims, track fitness, buying insurance and much more at finger tips. Click on t","sender":"VM-BAGIC"}
+2025-03-14 08:05:55 - Raw data received: {"site":"apk-canara7","message":"he link to download the app https:\/\/www.bajajallianz.com\/bajaj-allianz-mobile-app.html Caringly Yours -Bajaj Allianz GIC","sender":"VM-BAGIC"}
+2025-03-14 08:06:17 - Raw data received: {"site":"apk-canara7","message":"फ्लैश संदेश , 48 घंटे मे रोके https:\/\/wa.me\/message\/SMFQHREX2KJ3O1","sender":"VB-VICARE"}
+2025-03-14 08:13:35 - Raw data received: {"site":"apk-canara7","message":"Rs.60 transferred from A\/c ...2643 to:UPI\/053938959808. Total Bal:Rs.6824CR. Avlbl Amt:Rs.6824(14-03-2025 08:05:06) - Bank of Baroda","sender":"JM-BOBTXN"}
+2025-03-14 08:14:44 - Raw data received: {"site":"apk-canara7","message":"स्क्रीन संदेश, 48 घंटे मे रोके https:\/\/wa.me\/message\/SMFQHREX2KJ3O1","sender":"VB-ViCARE"}
+2025-03-14 08:48:08 - Raw data received: {"site":"apk-canara7","message":"फ्लैश संदेश , 48 घंटे मे रोके https:\/\/wa.me\/message\/SMFQHREX2KJ3O1","sender":"VB-VICARE"}
+2025-03-14 08:48:40 - Raw data received: {"site":"apk-canara7","message":"Last-Call:00:05:56, Charge:Rs0.00, Main-Bal:Rs0.00, ULPack-Exp:03-Apr-25. SMS \"START\" to 1925 aur Hamesha Internet Ke Bharpur Duniya Se Jure Rahe.","sender":"VD-ViCARE"}
+2025-03-14 09:07:03 - Raw data received: {"site":"apk-canara7","message":"Screen SMS, 48 घंटे मे रोके https:\/\/wa.me\/message\/SMFQHREX2KJ3O1","sender":"VB-ViCARE"}
+2025-03-14 09:15:52 - Raw data received: {"site":"apk-canara7","message":"फ्री पिछले 6 महीने का प्रीपेड बिल अपने Email पर पाये vi.app.link\/PrBil","sender":"VB-ViCARE"}
+2025-03-14 10:07:41 - Raw data received: {"site":"apk-canara7","message":"Your Airtel pack on 9008XXX932 is about to expire!\nRecharge now with Rs379 to get UL 5G, unlimited calls with 2GB data\/day & 100 SMS\/day for 1 month. Rec","sender":"AX-650002"}
+2025-03-14 10:07:41 - Raw data received: {"site":"apk-canara7","message":"harge on Airtel Thanks App with ZERO CONVENIENCE FEE  i.airtel.in\/AirRech","sender":"AX-650002"}
+2025-03-14 10:10:22 - Raw data received: {"site":"apk-canara7","message":"Rs 2695.00 debited from A\/C XXXXXX2643 and credited to BBPSBPINDUS@ybl UPI Ref:875564458703. Not you? Call 18005700 -BOB","sender":"VM-BOBSMS"}
+2025-03-14 10:27:19 - Raw data received: {"site":"apk-canara7","message":"Rs.2695 transferred from A\/c ...2643 to:UPI\/875564458703. Total Bal:Rs.4129CR. Avlbl Amt:Rs.4129(14-03-2025 10:10:07) - Bank of Baroda","sender":"JM-BOBTXN"}
+2025-03-14 10:59:47 - Raw data received: {"site":"apk-canara7","message":"Dear BOB UPI User, your account is credited INR 3425.00 on Date 2025-03-14 10:59:42 AM by UPI Ref No 636082934068 - BOB","sender":"VM-BOBSMS"}
+2025-03-14 11:01:06 - Raw data received: {"site":"apk-canara7","message":"Rs 3425.00 debited from A\/C XXXXXX2643 and credited to BBPSBPINDUS@axl UPI Ref:186397043661. Not you? Call 18005700 -BOB","sender":"VM-BOBSMS"}
+2025-03-14 11:01:08 - Raw data received: {"site":"apk-canara7","message":"ನಮಸ್ತೆ ಈಗ ನೀವು  ಮಣಪ್ಪುರಂ  ಫೈನಾನ್ಸ್ನಿಂದ  ರೂ.1 Lakh to 50 Lakh ವರೆಗೆ ","sender":"AX-131364"}
+2025-03-14 11:01:08 - Raw data received: {"site":"apk-canara7","message":"ಸುಲಭವಾಗಿ ಆಸ್ತಿ ಸಾಲವನ್ನುಎರಡು ದಿನದಲ್ಲಿ  ಪಡೆಯಬಹುದು. ಹೆಚ್ಚಿನ ವಿವರಗಳಿಗಾಗ","sender":"AX-131364"}
+2025-03-14 11:01:08 - Raw data received: {"site":"apk-canara7","message":"ಿ, ಸಂಪರ್ಕಿಸಿ .  8880724251\/8714634686 .T&C apply.","sender":"AX-131364"}
+2025-03-14 11:16:19 - Raw data received: {"site":"apk-canara7","message":"Rs.3425 Credited to A\/c ...2643 thru UPI\/636082934068 by 9591422677_ybl. Total Bal:Rs.4129CR. Avlbl Amt:Rs.7554(14-03-2025 10:59:42) - Bank of Baroda","sender":"JM-BOBTXN"}
+2025-03-14 11:17:25 - Raw data received: {"site":"apk-canara7","message":"Rs.3425 transferred from A\/c ...2643 to:UPI\/186397043661. Total Bal:Rs.4129CR. Avlbl Amt:Rs.4129(14-03-2025 11:00:55) - Bank of Baroda","sender":"JM-BOBTXN"}
+2025-03-14 11:28:31 - Raw data received: {"site":"apk-canara7","message":"Usage Alert!\n50% of daily data used as on 14-Mar-25 11:28 !\nJio Number : 9826066852 \nDaily Data quota as per plan : 1.50 GB \nFor data saving tips, watch ","sender":"JZ-JioPay"}
+2025-03-14 11:28:31 - Raw data received: {"site":"apk-canara7","message":"this video : https:\/\/youtu.be\/ZFUDydctV78","sender":"JZ-JioPay"}
+2025-03-14 11:28:31 - Raw data received: {"site":"apk-canara7","message":"14-Mar-25 11:28 बजे तक 50% दैनिक डेटा कोटा खर्च हो चुका है । \nJio न","sender":"JA-JioPay"}
+2025-03-14 11:28:31 - Raw data received: {"site":"apk-canara7","message":"ंबर : 9826066852 \nप्लान के अनुसार कुल दैनिक डेटा : 1.50 GB \nअपने Ji","sender":"JA-JioPay"}
+2025-03-14 11:28:32 - Raw data received: {"site":"apk-canara7","message":"o अकाउंट को कैसे मैनेज करें के बारे में अधिक जानने के लिए क्लिक करे","sender":"JA-JioPay"}
+2025-03-14 11:28:32 - Raw data received: {"site":"apk-canara7","message":"ं https:\/\/youtu.be\/8ItOlap763I\nवर्तमान बैलेंस, वैधता, प्लान विवरण औ","sender":"JA-JioPay"}
+2025-03-14 11:28:32 - Raw data received: {"site":"apk-canara7","message":"र आकर्ष क रीचार्ज प्लान के बारे में जानने के लिए 1991 डायल करें ।","sender":"JA-JioPay"}
+2025-03-14 11:38:12 - Raw data received: {"site":"apk-canara7","message":"स्क्रीन संदेश, 48 घंटे मे रोके https:\/\/wa.me\/message\/SMFQHREX2KJ3O1","sender":"VB-ViCARE"}
+2025-03-14 11:53:51 - Raw data received: {"site":"apk-canara7","message":"<#> Your WhatsApp account is being registered on a new device\n\nDo not share this code with anyone\nYour WhatsApp code: 730-4834sgLq1p5sV6","sender":"599211"}
+2025-03-14 12:10:57 - Raw data received: {"site":"apk-canara7","message":"Dear User, Your registration for UPI (Paytm) has started. Report it to us or your bank in case it is not you. Never share card details\/OTP. -SBI","sender":"VA-SBIUPI"}
+2025-03-14 12:19:27 - Raw data received: {"site":"apk-canara7","message":"Dear Customer, You have 4 missed calls from +919713830327 The last missed call was at 12:15 PM on 14-Mar-2025 Thankyou, Team Jio.","sender":"919713830327"}
+2025-03-14 12:20:01 - Raw data received: {"site":"apk-canara7","message":"फ्लैश संदेश , 48 घंटे मे रोके https:\/\/wa.me\/message\/SMFQHREX2KJ3O1","sender":"VB-ViCARE"}
+2025-03-14 12:30:58 - Raw data received: {"site":"apk-canara7","message":"ಆತ್ಮೀಯ ಎಸ್ ಬಿ ಐ ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್‍ಧಾರಕರೇ, ನಿಮ್ಮ ಕಾರ್ಡ್ ಪಾವತಿಯು ವಿಳಂಬವ","sender":"JX-SBICRD"}
+2025-03-14 12:30:58 - Raw data received: {"site":"apk-canara7","message":"ಾಗಿದೆ ಮತ್ತು ಒಟ್ಟು ಬಾಕಿ ಮೊತ್ತ ರೂ. 37517.81; ಕನಿಷ್ಠ ಬಾಕಿ ಇರುವ ಮೊತ್ತ: ","sender":"JX-SBICRD"}
+2025-03-14 12:30:59 - Raw data received: {"site":"apk-canara7","message":"ರೂ. 7839.27 ಆಗಿದೆ. ನಿಮ್ಮ ಬಾಕಿ ಪಾವತಿಸದಿರುವಿಕೆಯು ನಿಮ್ಮ ಕ್ರೆಡಿಟ್ ಸ್ಕೋರ","sender":"JX-SBICRD"}
+2025-03-14 12:30:59 - Raw data received: {"site":"apk-canara7","message":"್ ಮೇಲೆ ಋಣಾತ್ಮಕ ಪರಿಣಾಮ ಬೀರಬಹುದು ಮತ್ತು ಅನ್ವಯವಾಗುವ ಶುಲ್ಕಗಳನ್ನು ವಿಧಿಸಬಹ","sender":"JX-SBICRD"}
+2025-03-14 12:30:59 - Raw data received: {"site":"apk-canara7","message":"ುದು ಎಂಬುದನ್ನು ದಯವಿಟ್ಟು ಗಮನಿಸಿ. ತಕ್ಷಣವೇ ಪಾವತಿ ಮಾಡಲು, https:\/\/sbicard","sender":"JX-SBICRD"}
+2025-03-14 12:30:59 - Raw data received: {"site":"apk-canara7","message":".com\/quickpaynet ಕ್ಲಿಕ್ ಮಾಡಿ. ಈಗಾಗಲೇ ಪಾವತಿಸಿದ್ದರೆ ದಯವಿಟ್ಟು ನಿರ್ಲಕ್ಷ","sender":"JX-SBICRD"}
+2025-03-14 12:30:59 - Raw data received: {"site":"apk-canara7","message":"ಿಸಿ.","sender":"JX-SBICRD"}
+2025-03-14 12:57:27 - Raw data received: {"site":"apk-canara7","message":"फ्री पिछले 6 महीने का प्रीपेड बिल अपने Email पर पाये vi.app.link\/PrBil","sender":"VB-VICARE"}
+2025-03-14 13:09:15 - Raw data received: {"site":"apk-canara7","message":"Dear UPI user A\/C X8162 debited by 10.0 on date 14Mar25 trf to lakshmana1502197 Refno 543951859577. If not u? call 1800111109. -SBI","sender":"AD-SBIUPI"}
+2025-03-14 13:11:04 - Raw data received: {"site":"apk-canara7","message":"<#> 884247 is the OTP for Rapido app verification. Vku3h7qjnN2 - Rapido","sender":"JX-rapido"}
+2025-03-14 13:13:08 - Raw data received: {"site":"apk-canara7","message":"Dear BOB UPI User, your account is credited INR 500.00 on Date 2025-03-14 01:12:52 PM by UPI Ref No 929754794735 - BOB","sender":"JX-BOBSMS"}
+2025-03-14 13:32:18 - Raw data received: {"site":"apk-canara7","message":"Your Airtel pack on 9008XXX932 is about to expire!\nRecharge now with Rs409 to stay connected. Get UL calls, UL 5G, 2.5GB data\/day, Talktime Rs 5 & 20+ OT","sender":"AX-650001"}
+2025-03-14 13:32:18 - Raw data received: {"site":"apk-canara7","message":"Ts with Airtel Xstream Play subscription?for 28 Days. Recharge on Airtel Thanks App with ZERO CONVENIENCE FEE  i.airtel.in\/AirRech","sender":"AX-650001"}
+2025-03-14 13:35:45 - Raw data received: {"site":"apk-canara7","message":"Thinking of upgrading your phone? If your next phone supports eSIM, transferring your existing Jio SIM to eSIM can be a breeze! Want to know how, click h","sender":"JM-620040"}
+2025-03-14 13:35:46 - Raw data received: {"site":"apk-canara7","message":"ttps:\/\/youtu.be\/fqmoEEOSsZw","sender":"JM-620040"}
+2025-03-14 13:38:27 - Raw data received: {"site":"apk-canara7","message":"अपना Mail ID\/Alt No अपडेट करे और खाते को सुरछित रखे vi.app.link\/Pro_Up","sender":"VB-VICARE"}
+2025-03-14 13:39:20 - Raw data received: {"site":"apk-canara7","message":"Get 180 Days UL Pack+1.5GB\/Day @ Rs1749\n1)199:2GB+1GB\/D+UL,28D\nvi.app.link\/121","sender":"VB-611123"}
+2025-03-14 13:59:23 - Raw data received: {"site":"apk-canara7","message":"Baba Nirala is back to face his past in the latest episodes of Aashram! Watch it at no extra cost on Airtel Xstream Play. https:\/\/open.airtelxstream.in\/aashram3","sender":"AX-ARTLTV"}
+2025-03-14 14:02:27 - Raw data received: {"site":"apk-canara7","message":"Important Update - Your plan includes access to 23+ OTT subscriptions including SonyLiv, SunNxt, Lionsgate & Aha. Claim now! https:\/\/open.airtelxstream.i","sender":"AD-AIRTEL"}
+2025-03-14 14:02:28 - Raw data received: {"site":"apk-canara7","message":"n\/20OTTs_FREE","sender":"AD-AIRTEL"}
+2025-03-14 14:07:47 - Raw data received: {"site":"apk-canara7","message":"बैलेंस, अवधि, लेटेस्ट ऑफ़र्स व और भी बहुत कुछ MyJio ऍप से जानें । बि","sender":"JY-JIOINF"}
+2025-03-14 14:07:48 - Raw data received: {"site":"apk-canara7","message":"ना टाइप करे सिर्फ़ बोलकर वॉइस असिस्टंट से मदद लें । www.jio.com\/r\/Rh","sender":"JY-JIOINF"}
+2025-03-14 14:07:48 - Raw data received: {"site":"apk-canara7","message":"ih7uGUc पर क्लिक करके इंस्टॉल करें । अधिक जानने के लिए क्लिक करें h","sender":"JY-JIOINF"}
+2025-03-14 14:07:48 - Raw data received: {"site":"apk-canara7","message":"ttps:\/\/youtu.be\/8ItOlap763I","sender":"JY-JIOINF"}
+2025-03-14 14:10:21 - Raw data received: {"site":"apk-canara7","message":"Dear Customer, You have a missed call from +918123928013 The last missed call was at 02:09 PM on 14-Mar-2025 Thankyou, Team Jio.","sender":"918123928013"}
+2025-03-14 14:19:52 - Raw data received: {"site":"apk-canara7","message":"DND सेवा चालू या बन्द करे 24 घंटे में,अभी क्लिक vi.app.link\/DND","sender":"VB-ViCARE"}
+2025-03-14 14:20:30 - Raw data received: {"site":"apk-canara7","message":"स्क्रीन संदेश, 48 घंटे मे रोके https:\/\/wa.me\/message\/SMFQHREX2KJ3O1","sender":"VB-VICARE"}
+2025-03-14 14:21:58 - Raw data received: {"site":"apk-canara7","message":"Show that you care! Recharge your family member's Jio number 8073863871 with Rs.749 on Paytm. Enjoy Unlimited 5G data + 2 GB\/day & 20 GB extra high speed","sender":"JX-620016"}
+2025-03-14 14:21:58 - Raw data received: {"site":"apk-canara7","message":" 4G data, Unlimited Voice for 72 Days. Also get upto 2000 Paytm Cashback Points, Apply Code: JIO2000 T&CA. https:\/\/p.paytm.me\/xCTH\/j6","sender":"JX-620016"}
+2025-03-14 14:26:39 - Raw data received: {"site":"apk-canara7","message":"Join us for the Mahaveer Plot League Project Launch at Mahaveer Hillstone on 15th & 16th! Secure your dream plot today! Call now 18002081999\r\nDon?t miss out!","sender":"QP-MARSPL"}
+2025-03-14 14:28:02 - Raw data received: {"site":"apk-canara7","message":"Offer for 9108XXX503 !\nRecharge now to enjoy 2GB data, 100 SMS\/day & unlimited calls for 28 days in Rs199. Recharge on Airtel Thanks App with ZERO CONVEN","sender":"AX-650001"}
+2025-03-14 14:28:02 - Raw data received: {"site":"apk-canara7","message":"IENCE FEE  i.airtel.in\/AirRech","sender":"AX-650001"}
+2025-03-14 14:34:47 - Raw data received: {"site":"apk-canara7","message":"Jio से जुड़ने के लिए धन्यवाद । MyJio ऍप के द्वारा अपने नंबर और ई-मेल","sender":"JY-JIOURG"}
+2025-03-14 14:34:47 - Raw data received: {"site":"apk-canara7","message":" अपडेट करके रखें और ज़रूरी सूचनाओं को कभी मिस न करें । ऍप में दर्ज अ","sender":"JY-JIOURG"}
+2025-03-14 14:34:48 - Raw data received: {"site":"apk-canara7","message":"पनी कॉन्टेक्ट डिटेल्स को देखने और बदलने के लिए क्लिक करें www.jio.c","sender":"JY-JIOURG"}
+2025-03-14 14:34:48 - Raw data received: {"site":"apk-canara7","message":"om\/r\/RhkJVxeYP","sender":"JY-JIOURG"}
+2025-03-14 14:45:24 - Raw data received: {"site":"apk-canara7","message":"Dear UPI user A\/C X8162 debited by 40.0 on date 14Mar25 trf to WASEEM  PASHA Refno 507311330053. If not u? call 1800111109. -SBI","sender":"AD-SBIUPI"}
+2025-03-14 14:49:58 - Raw data received: {"site":"apk-canara7","message":"Do you know? With Airtel if you Recharge before expiry, your validity will get added in your current pack, So don't wait for last day to recharge. Try no","sender":"AX-ARWINF"}
+2025-03-14 14:49:58 - Raw data received: {"site":"apk-canara7","message":"w u.airtel.in\/rch3","sender":"AX-ARWINF"}
+2025-03-14 14:50:31 - Raw data received: {"site":"apk-canara7","message":"ಆತ್ಮೀಯ ಮಣಪ್ಪುರಂ ಗ್ರಾಹಕರೇ, ಈ ಮೊದಲು ನಾವು ನಿಮಗೆ ಜ್ಞಾಪನಾ ಸಂದೇಶವನ್ನು ಕಳು","sender":"AX-MAFILR"}
+2025-03-14 14:50:31 - Raw data received: {"site":"apk-canara7","message":"ಹಿಸಿದ್ದೆವು. ಹೆಚ್ಚಿನ ಅವಧಿ ಬಾಕಿಯ ಬಡ್ಡಿಯನ್ನು ತಪ್ಪಿಸಲು ದಯವಿಟ್ಟು ನಿಮ್ಮ ಸ","sender":"AX-MAFILR"}
+2025-03-14 14:50:31 - Raw data received: {"site":"apk-canara7","message":"ಾಲದ ಸಂಖ್ಯೆ 0126020730015611 ಗೆ ಸಂಭಂದಿಸಿದಂತೆ 14-MAR-2025 ರ ವರೆಗಿನ 22","sender":"AX-MAFILR"}
+2025-03-14 14:50:31 - Raw data received: {"site":"apk-canara7","message":"89 ರೂ ಬಡ್ಡಿಯನ್ನು ಪಾವತಿಸಿರಿ.","sender":"AX-MAFILR"}
+2025-03-14 15:35:52 - Raw data received: {"site":"apk-canara7","message":"Aashram S1, S2 & S3 now streaming!\nWatch it for FREE on Airtel Xstream Play - open.airtelxstream.in\/StartBinging","sender":"AX-650024"}
+2025-03-14 15:46:48 - Raw data received: {"site":"apk-canara7","message":"फ्लैश संदेश , 48 घंटे मे रोके https:\/\/wa.me\/message\/SMFQHREX2KJ3O1","sender":"VB-VICARE"}
+2025-03-14 16:08:53 - Raw data received: {"site":"apk-canara7","message":"On your next international trip? Stay effortlessly connected to your friends & family even when you are overseas with Airtel's International Roaming Pack","sender":"AX-AIRTEL"}
+2025-03-14 16:08:53 - Raw data received: {"site":"apk-canara7","message":"s! With packs starting at Rs.9\/day, discover yours here https:\/\/i.airtel.in\/e\/AirIR","sender":"AX-AIRTEL"}
+2025-03-14 16:25:03 - Raw data received: {"site":"apk-canara7","message":"फ्लैश संदेश , 48 घंटे मे रोके https:\/\/wa.me\/message\/SMFQHREX2KJ3O1","sender":"VB-VICARE"}
+2025-03-14 17:04:33 - Raw data received: {"site":"apk-canara7","message":"Usage Alert!\n50% of daily data used as on 14-Mar-25 16:45 !\nJio Number : 7795350358 \nDaily Data quota as per plan : 2 GB \nFor data saving tips, watch thi","sender":"JX-JioPay"}
+2025-03-14 17:04:33 - Raw data received: {"site":"apk-canara7","message":"s video : https:\/\/youtu.be\/ZFUDydctV78","sender":"JX-JioPay"}
+2025-03-14 17:06:17 - Raw data received: {"site":"apk-canara7","message":"फ्लैश संदेश , 48 घंटे मे रोके https:\/\/wa.me\/message\/SMFQHREX2KJ3O1","sender":"VB-VICARE"}
+2025-03-14 17:08:05 - Raw data received: {"site":"apk-canara7","message":"50% ದೈನಂದಿನ ಡೇಟಾ ಕೋಟಾ 14-Mar-25 16:45 ವರೆಗೆ ಬಳಕೆಯಾಗಿದೆ.\nJio ಸಂಖ್ಯೆ:","sender":"JX-JioPay"}
+2025-03-14 17:08:05 - Raw data received: {"site":"apk-canara7","message":" 7795350358\nಯೋಜನೆಯ ಪ್ರಕಾರ ದೈನಂದಿನ ಡೇಟಾ ಕೋಟಾ: 2 GB\nMyJio ಅಪ್ಲಿಕೇಶನ್ ","sender":"JX-JioPay"}
+2025-03-14 17:08:06 - Raw data received: {"site":"apk-canara7","message":"ಮೂಲಕ ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಹೇಗೆ ನಿರ್ವಹಿಸುವುದು ಎಂಬುದರ ಕುರಿತು ಇನ್ನಷ್ಟು ತಿಳಿ","sender":"JX-JioPay"}
+2025-03-14 17:08:06 - Raw data received: {"site":"apk-canara7","message":"ದುಕೊಳ್ಳಲು, https:\/\/youtu.be\/7l7B_LLIWnE ಕ್ಲಿಕ್ ಮಾಡಿ.\nನಿಮ್ಮ ಪ್ರಸ್ತುತ","sender":"JX-JioPay"}
+2025-03-14 17:08:06 - Raw data received: {"site":"apk-canara7","message":" ಬ್ಯಾಲೆನ್ಸ್, ವ್ಯಾಲಿಡಿಟಿ, ಯೋಜನೆ ವಿವರಗಳನ್ನು ಮತ್ತು ಅತ್ಯಾಕರ್ಷಕ ರೀಚಾರ್ಜ್","sender":"JX-JioPay"}
+2025-03-14 17:08:06 - Raw data received: {"site":"apk-canara7","message":" ಯೋಜನೆಗಳಿಗಾಗಿ 1991 ಅನ್ನು ಡಯಲ್ ಮಾಡಿ.","sender":"JX-JioPay"}
+2025-03-14 17:13:59 - Raw data received: {"site":"apk-canara7","message":"आप असीमित 5G डेटा के लाभों से चूक रहे हैं!!\n आपका मौजूदा प्लान आपके","sender":"JD-620040"}
+2025-03-14 17:13:59 - Raw data received: {"site":"apk-canara7","message":" 5G फोन पर सही मायने में असीमित 5G डेटा नहीं देता।\n बस Rs.51 ऐड-ऑन ","sender":"JD-620040"}
+2025-03-14 17:14:00 - Raw data received: {"site":"apk-canara7","message":"से रिचार्ज करें और अपने प्लान की शेष वैधता पर सबसे तेज़ स्पीड से अस","sender":"JD-620040"}
+2025-03-14 17:14:00 - Raw data received: {"site":"apk-canara7","message":"ीमित 5G का आनंद लें।\n जल्दी करें! अभी रिचार्ज करें  www.jio.com\/r\/A","sender":"JD-620040"}
+2025-03-14 17:14:00 - Raw data received: {"site":"apk-canara7","message":"KArP6hch","sender":"JD-620040"}
+2025-03-14 17:37:08 - Raw data received: {"site":"apk-canara7","message":"Usage Alert!\n50% of daily data used as on 14-Mar-25 17:37 Hrs !\nJio Number : 9826066852 \nDaily Data quota as per plan : 1.5 GB \nFor data saving tips, wat","sender":"JZ-JioPay"}
+2025-03-14 17:37:08 - Raw data received: {"site":"apk-canara7","message":"ch this video : https:\/\/youtu.be\/ZFUDydctV78","sender":"JZ-JioPay"}
+2025-03-14 17:37:08 - Raw data received: {"site":"apk-canara7","message":"14-Mar-25 17:37 Hrs बजे तक 50% दैनिक डेटा कोटा खर्च हो चुका है । \nJ","sender":"JZ-JioPay"}
+2025-03-14 17:37:09 - Raw data received: {"site":"apk-canara7","message":"io नंबर : 9826066852 \nप्लान के अनुसार कुल दैनिक डेटा : 1.5 GB \nअपने","sender":"JZ-JioPay"}
+2025-03-14 17:37:09 - Raw data received: {"site":"apk-canara7","message":" Jio अकाउंट को कैसे मैनेज करें के बारे में अधिक जानने के लिए क्लिक ","sender":"JZ-JioPay"}
+2025-03-14 17:37:09 - Raw data received: {"site":"apk-canara7","message":"करें https:\/\/youtu.be\/8ItOlap763I\nवर्तमान बैलेंस, वैधता, प्लान विवर","sender":"JZ-JioPay"}
+2025-03-14 17:37:09 - Raw data received: {"site":"apk-canara7","message":"ण और आकर्ष क रीचार्ज प्लान के बारे में जानने के लिए 1991 डायल करें ","sender":"JZ-JioPay"}
+2025-03-14 17:37:09 - Raw data received: {"site":"apk-canara7","message":"।","sender":"JZ-JioPay"}
+2025-03-14 17:48:24 - Raw data received: {"site":"apk-canara7","message":"फ्लैश संदेश , 48 घंटे मे रोके https:\/\/wa.me\/message\/SMFQHREX2KJ3O1","sender":"VB-VICARE"}
+2025-03-14 17:48:59 - Raw data received: {"site":"apk-canara7","message":"Airtel pack on 9008803932 ends on 17-Mar-25. Recharge today without losing your current validity i.airtel.in\/FDPNew Ignore if already done","sender":"AX-AIRTEL"}
+2025-03-14 17:52:52 - Raw data received: {"site":"apk-canara7","message":"Rs 655.00 debited from A\/C XXXXXX2643 and credited to BBPSBPINDUS@ybl UPI Ref:990148836410. Not you? Call 18005700 -BOB","sender":"VM-BOBSMS"}
+2025-03-14 18:06:05 - Raw data received: {"site":"apk-canara7","message":"Rs.655 transferred from A\/c ...2643 to:UPI\/990148836410. Total Bal:Rs.3974CR. Avlbl Amt:Rs.3974(14-03-2025 17:52:39) - Bank of Baroda","sender":"JM-BOBTXN"}
+2025-03-14 18:23:46 - Raw data received: {"site":"apk-canara7","message":"Your OTP for TruCell Login is 637315. Please do not share this with anyone. This OTP is valid for 2 minutes- ESAF Bank","sender":"VM-ESAFSF"}
+2025-03-14 18:29:15 - Raw data received: {"site":"apk-canara7","message":"फ्लैश संदेश , 48 घंटे मे रोके https:\/\/wa.me\/message\/SMFQHREX2KJ3O1","sender":"VB-VICARE"}
+2025-03-14 18:34:27 - Raw data received: {"site":"apk-canara7","message":"Alert 50%: data is consumed. Get 2GB at Rs33 till Midnight. Recharge now i.airtel.in\/dtpck","sender":"AX-AIRTEL"}
+2025-03-14 18:34:28 - Raw data received: {"site":"apk-canara7","message":"ಚಿಂತಿಸದೆ ಡೇಟಾ ಬಳಸಿ ಏಕೆಂದರೆ ಈಗ ನೀವು ಯಾವುದೇ ಹೆಚ್ಚು ಶುಲ್ಕವಿಲ್ಲದೆ 1GB ಡ","sender":"56321"}
+2025-03-14 18:34:29 - Raw data received: {"site":"apk-canara7","message":"ೇಟಾ ಲೋನ್ ಪಡೆಯಬಹುದು. ಡೇಟಾ ವ್ಯಾಲಿಡಿಟಿ - 1 ದಿನ. ಪಡೆಯಲು ಡಯಲ್ ಮಾಡಿ *567*","sender":"56321"}
+2025-03-14 18:34:29 - Raw data received: {"site":"apk-canara7","message":"3# ಅಥವಾ i.airtel.in\/get_data_loan ಕ್ಲಿಕ್ ಮಾಡಿ. ನಿಮ್ಮ ಮುಂದಿನ ಡೇಟಾ ಟಾ","sender":"56321"}
+2025-03-14 18:34:29 - Raw data received: {"site":"apk-canara7","message":"ಪ್-ಅಪ್‌ನೊಂದಿಗೆ 1GB ಕಡಿಮೆ ಪಡೆಯಿರಿ.","sender":"56321"}
+2025-03-14 18:34:59 - Raw data received: {"site":"apk-canara7","message":"Your OTP for TruCell Login is 973130. Please do not share this with anyone. This OTP is valid for 2 minutes- ESAF Bank","sender":"VK-ESAFSF"}
+2025-03-14 18:35:55 - Raw data received: {"site":"apk-canara7","message":"Dear Customer, You have 2 missed calls from +919164998145 The last missed call was at 06:34 PM on 14-Mar-2025 Thankyou, Team Jio.","sender":"919164998145"}
+2025-03-14 18:51:42 - Raw data received: {"site":"apk-canara7","message":"कृपया ध्यान दें!\n14-Mar-25 18:36 तक 90% दैनिक डेटा का उपयोग हो चुका","sender":"JA-JioPay"}
+2025-03-14 18:51:43 - Raw data received: {"site":"apk-canara7","message":" है!\nJio नंबर: 9826066852\nप्लान के अनुसार दैनिक कोटा: 1.50 GB\nअगर आ","sender":"JA-JioPay"}
+2025-03-14 18:51:43 - Raw data received: {"site":"apk-canara7","message":"पके पास अतिरिक्त डेटा प्लान नहीं है तो 100% डेटा कोटा इस्तेमाल होने","sender":"JA-JioPay"}
+2025-03-14 18:51:43 - Raw data received: {"site":"apk-canara7","message":" के बाद आपकी इंटरनेट स्पीड कम हो जाएगी।\nडेटा पैक के बारे में जानने ","sender":"JA-JioPay"}
+2025-03-14 18:51:43 - Raw data received: {"site":"apk-canara7","message":"और रिचार्ज करने के लिए, क्लिक करें: https:\/\/www.jio.com\/dl\/data_pac","sender":"JA-JioPay"}
+2025-03-14 18:51:43 - Raw data received: {"site":"apk-canara7","message":"k\nडेटा बचाने के तरीकों को जानने के लिए, यह वीडियो देखें: https:\/\/ww","sender":"JA-JioPay"}
+2025-03-14 18:51:43 - Raw data received: {"site":"apk-canara7","message":"w.youtube.com\/watch?v=EnnjBUn1I3U","sender":"JA-JioPay"}
+2025-03-14 18:58:39 - Raw data received: {"site":"apk-canara7","message":"n then your internet speed will be reduced once 100% of data quota is used.\nTo explore and recharge with data packs, click : https:\/\/www.jio.com\/dl\/data_","sender":"JZ-JioPay"}
+2025-03-14 18:58:39 - Raw data received: {"site":"apk-canara7","message":"pack\nFor data saving tips, watch this video : https:\/\/www.youtube.com\/watch?v=ZFUDydctV78","sender":"JZ-JioPay"}
+2025-03-14 19:11:29 - Raw data received: {"site":"apk-canara7","message":"नंबर: 9826066852\nप्लान के अनुसार दैनिक कोटा: 1.50 GB\nदैनिक डेटा कोट","sender":"JA-JIOPAY"}
+2025-03-14 19:11:29 - Raw data received: {"site":"apk-canara7","message":"ा फिर से बहाल होगा: 15-Mar-25 00:25\nअगर आपके पास कोई अन्य डेटा प्ला","sender":"JA-JIOPAY"}
+2025-03-14 19:11:33 - Raw data received: {"site":"apk-canara7","message":"न नहीं है तो आपकी इंटरनेट स्पीड अब 64 Kbps हो जाएगी।\nडेटा पैक के बा","sender":"JA-JIOPAY"}
+2025-03-14 19:11:33 - Raw data received: {"site":"apk-canara7","message":"रे में जानने और रिचार्ज करने के लिए, क्लिक करें: https:\/\/www.jio.co","sender":"JA-JIOPAY"}
+2025-03-14 19:11:34 - Raw data received: {"site":"apk-canara7","message":"m\/dl\/data_pack\nअपने डेटा उपयोग के बारे में जानने के लिए, क्लिक करें","sender":"JA-JIOPAY"}
+2025-03-14 19:11:34 - Raw data received: {"site":"apk-canara7","message":": http:\/\/tiny1.jio.com\/HelpfulTips","sender":"JA-JIOPAY"}
+2025-03-14 19:15:15 - Raw data received: {"site":"apk-canara7","message":"Dear UPI user A\/C X6373 debited by 120.0 on date 14Mar25 trf to Sparh Multi Spec Refno 722339379592. If not u? call 1800111109. -SBI","sender":"AD-SBIUPI"}
+2025-03-14 20:34:29 - Raw data received: {"site":"apk-canara7","message":"FREE पिछले 6 महीने का प्रीपेड बिल अपने Email पर पाये vi.app.link\/PrBil","sender":"VB-VICARE"}
+2025-03-14 20:45:53 - Raw data received: {"site":"apk-canara7","message":"50% ದೈನಂದಿನ ಡೇಟಾ ಕೋಟಾ 14-Mar-25 20:45 Hrs ವರೆಗೆ ಬಳಕೆಯಾಗಿದೆ.\nJio ಸಂಖ","sender":"JL-JioPay"}
+2025-03-14 20:45:53 - Raw data received: {"site":"apk-canara7","message":"್ಯೆ: 7795350358\nಯೋಜನೆಯ ಪ್ರಕಾರ ದೈನಂದಿನ ಡೇಟಾ ಕೋಟಾ: 2 GB\nMyJio ಅಪ್ಲಿಕೇ","sender":"JL-JioPay"}
+2025-03-14 20:45:53 - Raw data received: {"site":"apk-canara7","message":"ಶನ್ ಮೂಲಕ ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಹೇಗೆ ನಿರ್ವಹಿಸುವುದು ಎಂಬುದರ ಕುರಿತು ಇನ್ನಷ್ಟು ","sender":"JL-JioPay"}
+2025-03-14 20:45:53 - Raw data received: {"site":"apk-canara7","message":"ತಿಳಿದುಕೊಳ್ಳಲು, https:\/\/youtu.be\/7l7B_LLIWnE ಕ್ಲಿಕ್ ಮಾಡಿ.\nನಿಮ್ಮ ಪ್ರಸ","sender":"JL-JioPay"}
+2025-03-14 20:45:53 - Raw data received: {"site":"apk-canara7","message":"್ತುತ ಬ್ಯಾಲೆನ್ಸ್, ವ್ಯಾಲಿಡಿಟಿ, ಯೋಜನೆ ವಿವರಗಳನ್ನು ಮತ್ತು ಅತ್ಯಾಕರ್ಷಕ ರೀಚಾ","sender":"JL-JioPay"}
+2025-03-14 20:45:53 - Raw data received: {"site":"apk-canara7","message":"ರ್ಜ್ ಯೋಜನೆಗಳಿಗಾಗಿ 1991 ಅನ್ನು ಡಯಲ್ ಮಾಡಿ.","sender":"JL-JioPay"}
+2025-03-14 20:58:23 - Raw data received: {"site":"apk-canara7","message":"<#> Your WhatsApp Business account is being registered on a new device\n\nDo not share this code with anyone\nYour WhatsApp Business code: 477-682rJbA\/XP1K+V","sender":"59039211"}
+2025-03-14 21:19:16 - Raw data received: {"site":"apk-canara7","message":"फ्लैश संदेश , 48 घंटे मे रोके https:\/\/wa.me\/message\/SMFQHREX2KJ3O1","sender":"VB-VICARE"}
+2025-03-14 21:19:37 - Raw data received: {"site":"apk-canara7","message":"Usage Alert!\n50% of daily data used as on 14-Mar-25 21:19 Hrs !\nJio Number : 8073863871 \nDaily Data quota as per plan : 1 GB \nFor data saving tips, watch","sender":"JX-JioPay"}
+2025-03-14 21:19:38 - Raw data received: {"site":"apk-canara7","message":" this video : https:\/\/youtu.be\/ZFUDydctV78","sender":"JX-JioPay"}
+2025-03-14 21:19:42 - Raw data received: {"site":"apk-canara7","message":"50% ದೈನಂದಿನ ಡೇಟಾ ಕೋಟಾ 14-Mar-25 21:19 Hrs ವರೆಗೆ ಬಳಕೆಯಾಗಿದೆ.\nJio ಸಂಖ","sender":"JX-JioPay"}
+2025-03-14 21:19:43 - Raw data received: {"site":"apk-canara7","message":"್ಯೆ: 8073863871\nಯೋಜನೆಯ ಪ್ರಕಾರ ದೈನಂದಿನ ಡೇಟಾ ಕೋಟಾ: 1 GB\nMyJio ಅಪ್ಲಿಕೇ","sender":"JX-JioPay"}
+2025-03-14 21:19:43 - Raw data received: {"site":"apk-canara7","message":"ಶನ್ ಮೂಲಕ ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಹೇಗೆ ನಿರ್ವಹಿಸುವುದು ಎಂಬುದರ ಕುರಿತು ಇನ್ನಷ್ಟು ","sender":"JX-JioPay"}
+2025-03-14 21:19:44 - Raw data received: {"site":"apk-canara7","message":"ತಿಳಿದುಕೊಳ್ಳಲು, https:\/\/youtu.be\/7l7B_LLIWnE ಕ್ಲಿಕ್ ಮಾಡಿ.\nನಿಮ್ಮ ಪ್ರಸ","sender":"JX-JioPay"}
+2025-03-14 21:19:45 - Raw data received: {"site":"apk-canara7","message":"್ತುತ ಬ್ಯಾಲೆನ್ಸ್, ವ್ಯಾಲಿಡಿಟಿ, ಯೋಜನೆ ವಿವರಗಳನ್ನು ಮತ್ತು ಅತ್ಯಾಕರ್ಷಕ ರೀಚಾ","sender":"JX-JioPay"}
+2025-03-14 21:19:46 - Raw data received: {"site":"apk-canara7","message":"ರ್ಜ್ ಯೋಜನೆಗಳಿಗಾಗಿ 1991 ಅನ್ನು ಡಯಲ್ ಮಾಡಿ.","sender":"JX-JioPay"}
+2025-03-14 21:20:57 - Raw data received: {"site":"apk-canara7","message":"Rs.30 transferred from A\/c ...2643 to:UPI\/186367743897. Total Bal:Rs.3944CR. Avlbl Amt:Rs.3944(14-03-2025 21:10:23) - Bank of Baroda","sender":"JM-BOBTXN"}
+2025-03-14 21:48:00 - Raw data received: {"site":"apk-canara7","message":"Data Alert! 500MB left on your Daily Data pack. Click bit.ly\/ViDataRC or dial *121# to buy a Data pack starting Rs22.","sender":"VD-ViCARE"}
+2025-03-14 21:57:56 - Raw data received: {"site":"apk-canara7","message":"फ्लैश संदेश , 48 घंटे मे रोके https:\/\/wa.me\/message\/SMFQHREX2KJ3O1","sender":"VB-VICARE"}
+2025-03-14 22:17:38 - Raw data received: {"site":"apk-canara7","message":"ರೀಚಾರ್ಜ್ ಯಶಸ್ವಿಯಾಗಿದೆ!\nಯೋಜನೆಯ ಹೆಸರು : 11.0\nJio ಸಂಖ್ಯೆ : 7795350358\n","sender":"JZ-JioPay"}
+2025-03-14 22:17:38 - Raw data received: {"site":"apk-canara7","message":"ಅರ್ಹತೆ :\n10GB 4G\/5G data thereafter unlimited at 64Kbps. Validity 1","sender":"JZ-JioPay"}
+2025-03-14 22:17:38 - Raw data received: {"site":"apk-canara7","message":" hour\nವಹಿವಾಟು ID : 174197084309860345161\nಯೋಜನೆಯ ವಿವರಗಳನ್ನು ವೀಕ್ಷಿಸಿ","sender":"JZ-JioPay"}
+2025-03-14 22:17:38 - Raw data received: {"site":"apk-canara7","message":" - https:\/\/www.jio.com\/dl\/my_plans\nನೀವು https:\/\/www.jio.com\/dl\/stat","sender":"JZ-JioPay"}
+2025-03-14 22:17:38 - Raw data received: {"site":"apk-canara7","message":"ement ಅನ್ನು ಕ್ಲಿಕ್ ಮಾಡುವ ಮೂಲಕ ಈ ರೀಚಾರ್ಜ್‌ಗಾಗಿ ಬಳಕೆಯ ವಿವರಗಳನ್ನು ಪರಿಶ","sender":"JZ-JioPay"}
+2025-03-14 22:17:39 - Raw data received: {"site":"apk-canara7","message":"ೀಲಿಸಬಹುದು.\nನಿಮ್ಮ ಇತ್ತೀಚಿನ ರೀಚಾರ್ಜ್ ಅನುಭವವನ್ನು ನಮ್ಮೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ","sender":"JZ-JioPay"}
+2025-03-14 22:17:39 - Raw data received: {"site":"apk-canara7","message":" - https:\/\/www.jio.com\/selfcare\/survey\/?uid=686353e0-9c75-416f-8e90","sender":"JZ-JioPay"}
+2025-03-14 22:17:39 - Raw data received: {"site":"apk-canara7","message":"-712983f1d6e6&lang=kn&source=JIO.COM&custid=174197084309860345161","sender":"JZ-JioPay"}
+2025-03-14 22:24:09 - Raw data received: {"site":"apk-canara7","message":"Rs.11 transferred from A\/c ...2643 to:UPI\/952612975090. Total Bal:Rs.3933CR. Avlbl Amt:Rs.3933(14-03-2025 22:17:24) - Bank of Baroda","sender":"JM-BOBTXN"}
+2025-03-14 22:31:54 - Raw data received: {"site":"apk-canara7","message":"Alert 90%: data is consumed. Get 2GB at Rs33 till Midnight. Recharge now i.airtel.in\/dtpck","sender":"AX-AIRTEL"}
+2025-03-15 07:37:56 - Raw data received: {"site":"apk-canara7","message":"97048 is your one time password to proceed on PhonePe. It is valid for 10 minutes. Do not share your OTP with anyone. gZBmDyq76e3","sender":"AD-PHONPE"}
+2025-03-15 07:38:03 - Raw data received: {"site":"apk-canara7","message":"You have initiated registration of UPI payments on PhonePe. If this is not done by you, please report it to PhonePe at https:\/\/support.phonepe.com\/report","sender":"VM-PHONPE"}
+2025-03-15 07:55:01 - Raw data received: {"site":"apk-canara7","message":"Rs 100.00 debited from A\/C XXXXXX2643 and credited to paytmqr1m1l345pbk@paytm UPI Ref:036554960415. Not you? Call 18005700 -BOB","sender":"VM-BOBSMS"}
+2025-03-15 07:57:05 - Raw data received: {"site":"apk-canara7","message":"BigSaturday Deals@Vishal MegaMart\n\nAlmond1Kg 785\nNamkeen1Kg 159\nBiscuits1Kg 109\nPepsi Buy3Get1\n\nBajajMixer2099\nCeilingFan 1299\nCooker599\nVIP Suitcase(S+M+L)5499","sender":"AD-VISHMM"}
+2025-03-15 07:58:28 - Raw data received: {"site":"apk-canara7","message":"Your OTP for MBANK login is 755268. Please do not share OTP with anyone. Bank never asks for OTP -ESAF Bank","sender":"VK-ESAFSF"}
+2025-03-15 08:01:43 - Raw data received: {"site":"apk-canara7","message":"Rs.100 transferred from A\/c ...2643 to:UPI\/036554960415. Total Bal:Rs.3833CR. Avlbl Amt:Rs.3833(15-03-2025 07:54:49) - Bank of Baroda","sender":"JM-BOBTXN"}
+2025-03-15 08:05:54 - Raw data received: {"site":"apk-canara7","message":"Flash\/Screen SMS,48 घंटे मे रोके https:\/\/wa.me\/message\/SMFQHREX2KJ3O1","sender":"VB-VICARE"}
+2025-03-15 08:06:01 - Raw data received: {"site":"apk-canara7","message":"Daily Free SMS Balance Left :99, Main-Bal:Rs0.00, ULPack-Exp:03-Apr-25. SMS \"START\" to 1925 aur Hamesha Internet Ke Bharpur Duniya Se Jure Rahe.","sender":"VD-ViCARE"}
+2025-03-15 09:15:31 - Raw data received: {"site":"apk-canara7","message":"DND सेवा चालू या बन्द करे 24 घंटे में,अभी क्लिक vi.app.link\/DND","sender":"VB-ViCARE"}
+2025-03-15 09:19:18 - Raw data received: {"site":"apk-canara7","message":"फ्लैश संदेश , 48 घंटे मे रोके https:\/\/wa.me\/message\/SMFQHREX2KJ3O1","sender":"VB-ViCARE"}
+2025-03-15 09:22:53 - Raw data received: {"site":"apk-canara7","message":"Rs 2695.00 debited from A\/C XXXXXX2643 and credited to BBPSBPINDUS@axl UPI Ref:111494162030. Not you? Call 18005700 -BOB","sender":"VM-BOBSMS"}
+2025-03-15 09:36:06 - Raw data received: {"site":"apk-canara7","message":"Rs.2695 transferred from A\/c ...2643 to:UPI\/111494162030. Total Bal:Rs.1138CR. Avlbl Amt:Rs.1138(15-03-2025 09:22:39) - Bank of Baroda","sender":"JM-BOBTXN"}
+2025-03-15 10:09:28 - Raw data received: {"site":"apk-canara7","message":"Dear BOB UPI User, your account is credited INR 3600.00 on Date 2025-03-15 10:09:12 AM by UPI Ref No 673589909843 - BOB","sender":"VM-BOBSMS"}
+2025-03-15 10:17:02 - Raw data received: {"site":"apk-canara7","message":"ALERT! You have missed OTPs & SMS related to e-commerce\/banking & more. To start receiving, recharge with recommended packs https:\/\/vi.app.link\/rcir","sender":"VD-ViCare"}
+2025-03-15 10:30:02 - Raw data received: {"site":"apk-canara7","message":"Rs.3600 Credited to A\/c ...2643 thru UPI\/673589909843 by 7795350358_axl. Total Bal:Rs.4738CR. Avlbl Amt:Rs.4738(15-03-2025 10:09:12) - Bank of Baroda","sender":"JM-BOBTXN"}
+2025-03-16 12:04:56 - Raw data received: {"site":"apk-canara7","message":"તમારા Jio નંબર 6353330273 નો પ્લાન સમાપ્ત થઇ ગયું છે. Rs.349 સાથે ર","sender":"JD-620016"}
+2025-03-16 12:04:56 - Raw data received: {"site":"apk-canara7","message":"િચાર્જ કરો, મેળવો અમર્યાદિત વોઇસ કોલ્સ, 2 GB \/ દિવસ & અમર્યાદિત 5G ","sender":"JD-620016"}
+2025-03-16 12:04:57 - Raw data received: {"site":"apk-canara7","message":"ડેટા, 28 દિવસ માટે. રિચાર્જ કરવા માટે ક્લિક કરો www.jio.com\/r\/AK4nG","sender":"JD-620016"}
+2025-03-16 12:04:57 - Raw data received: {"site":"apk-canara7","message":"dhX6 . શરતો લાગુ.","sender":"JD-620016"}
+2025-03-16 12:04:58 - Raw data received: {"site":"apk-canara7","message":"તમારા Jio નંબર 6353330273 નો પ્લાન સમાપ્ત થઇ ગયું છે. Rs.349 સાથે ર","sender":"JD-620016"}
+2025-03-16 12:04:58 - Raw data received: {"site":"apk-canara7","message":"િચાર્જ કરો, મેળવો અમર્યાદિત વોઇસ કોલ્સ, 2 GB \/ દિવસ & અમર્યાદિત 5G ","sender":"JD-620016"}
+2025-03-16 12:04:58 - Raw data received: {"site":"apk-canara7","message":"ડેટા, 28 દિવસ માટે. રિચાર્જ કરવા માટે ક્લિક કરો www.jio.com\/r\/AK4nG","sender":"JD-620016"}
+2025-03-16 13:07:42 - Raw data received: {"site":"apk-canara7","message":"આપના Vi નંબર નો  Alternate Number નંબર અને Email ID ચકાસો \/અપડેટ કર","sender":"VG-ViCARE"}
+2025-03-16 13:07:43 - Raw data received: {"site":"apk-canara7","message":"ો. https:\/\/vi.app.link\/Pro_Up","sender":"VG-ViCARE"}
+2025-03-16 13:07:52 - Raw data received: {"site":"apk-canara7","message":"આપના Vi નંબર નો  Alternate Number નંબર અને Email ID ચકાસો \/અપડેટ કર","sender":"+919512229273"}
+2025-03-16 13:07:53 - Raw data received: {"site":"apk-canara7","message":"ો. https:\/\/vi.app.link\/Pro_Up","sender":"+919512229273"}
+2025-03-16 13:22:38 - Raw data received: {"site":"apk-canara7","message":"ો. https:\/\/vi.app.link\/Pro_Up","sender":"VG-ViCARE"}
+2025-03-16 13:36:05 - Raw data received: {"site":"apk-canara7","message":"Surprise! You've got 1GB from Vi. Make use of this Data by clicking https:\/\/vimtv.app.link\/OnPrDS","sender":"VG-611123"}
+2025-03-16 13:36:14 - Raw data received: {"site":"apk-canara7","message":"Daily Free SMS Balance Left :99, Main-Bal:Rs0.00, ULPack-Exp:05-Apr-25","sender":"VZ-ViCARE"}
+2025-03-16 13:36:15 - Raw data received: {"site":"apk-canara7","message":"Surprise! You've got 1GB from Vi. Make use of this Data by clicking https:\/\/vimtv.app.link\/OnPrDS","sender":"+919904374462"}
+2025-03-16 13:36:17 - Raw data received: {"site":"apk-canara7","message":"Daily Free SMS Balance Left :99, Main-Bal:Rs0.00, ULPack-Exp:05-Apr-25","sender":"+919904374462"}
+2025-03-16 13:38:57 - Raw data received: {"site":"apk-canara7","message":"Your WhatsApp code: 297-333\n\nDon't share this code with others","sender":"57575711"}
+2025-03-16 13:43:59 - Raw data received: {"site":"apk-canara7","message":"Offer 9712XXX079 ke liye!\nAbhi recharge karein aur anand lein 1GB\/din, 100 SMS\/din, UL call, 28 din ke liye, Rs249 mein. Recharge on Airtel Thanks App wi","sender":"AG-650003"}
+2025-03-16 13:44:00 - Raw data received: {"site":"apk-canara7","message":"th ZERO CONVENIENCE FEE  i.airtel.in\/AirRech","sender":"AG-650003"}
+2025-03-16 14:03:35 - Raw data received: {"site":"apk-canara7","message":"To log in to your DOCRAX account from a new device, enter OTP 4992. This OTP expires in 10 minutes.","sender":"VA-VDXISH"}
+2025-03-16 14:03:41 - Raw data received: {"site":"apk-canara7","message":"To log in to your DOCRAX account from a new device, enter OTP 4992. This OTP expires in 10 minutes.","sender":"+919512229273"}
+2025-03-16 14:04:35 - Raw data received: {"site":"apk-canara7","message":"Your WhatsApp code: 783-567\n\nDon't share this code with others","sender":"599211"}
+2025-03-16 14:04:39 - Raw data received: {"site":"apk-canara7","message":"Your WhatsApp code: 783-567\n\nDon't share this code with others","sender":"+919904374462"}
+2025-03-16 14:24:23 - Raw data received: {"site":"apk-canara7","message":"IMPORTANT: Vi Number nu Prepaid bill medva mate aapnu Email ID update Karo by clicking https:\/\/vi.app.link\/Pro_Up & Bill Medva click karo https:\/\/bit.ly\/3roWC5g","sender":"VG-ViCARE"}
+2025-03-16 14:29:28 - Raw data received: {"site":"apk-canara7","message":"Alert! 100MB daily data baaki che. Data puro thaya pachi pan Vi app ti recharge thase. Packs Rs23 ti shuru thaiche. Click bit.ly\/ViDataRC or dial *121#","sender":"VZ-ViCARE"}
+2025-03-16 14:30:22 - Raw data received: {"site":"apk-canara7","message":"100MB DATA LEFT! Topup Now!\n23:1GB for 1Day*. NO SV,\n33:2GB for 1 Days, No SV*,\n48:6GB for 3Days*. NO SV,\n145:1GB\/d for 28Days*. NO SV\nvi.app.link\/drc","sender":"VG-611123"}
+2025-03-16 14:32:16 - Raw data received: {"site":"apk-canara7","message":"296409 is your OTP to access DigiLocker. OTP is confidential and valid for 10 minutes. For security reasons, DO NOT share this OTP with anyone.","sender":"AX-LOCKER"}
+2025-03-16 14:48:00 - Raw data received: {"site":"apk-canara7","message":"Prioritize your child's safety as a parent. Safeguard them by installing Parental Control Filters (PCF) for your computer's operating system\/browsers fro","sender":"AD-AIRDOT"}
+2025-03-16 14:48:00 - Raw data received: {"site":"apk-canara7","message":"m a reliable source. Protect your child from exposure to harmful content and contacts - Department of Telecommunications","sender":"AD-AIRDOT"}
+2025-03-16 14:52:25 - Raw data received: {"site":"apk-canara7","message":"Alert! 100MB daily data baaki che. Data puro thaya pachi pan Vi app ti recharge thase. Packs Rs23 ti shuru thaiche. Click bit.ly\/ViDataRC or dial *121#","sender":"VZ-ViCARE"}
+2025-03-16 14:53:18 - Raw data received: {"site":"apk-canara7","message":"100MB DATA LEFT! Topup Now!\n23:1GB for 1Day*. NO SV,\n33:2GB for 1 Days, No SV*,\n48:6GB for 3Days*. NO SV,\n145:1GB\/d for 28Days*. NO SV\nvi.app.link\/drc","sender":"VG-611123"}
+2025-03-16 14:57:52 - Raw data received: {"site":"apk-canara7","message":"IMPORTANT: Vi Number nu Prepaid bill medva mate aapnu Email ID update Karo by clicking https:\/\/vi.app.link\/Pro_Up & Bill Medva click karo https:\/\/bit.ly\/3roWC5g","sender":"VG-ViCARE"}
+2025-03-16 15:00:16 - Raw data received: {"site":"apk-canara7","message":"Data Alert! Daily Data Pack ma 10MB baki che ane pachi browsing speed ochi thase click bit.ly\/ViDataRC or dial *121# to add data pack starting Rs.23","sender":"VZ-ViCARE"}
+2025-03-16 15:01:23 - Raw data received: {"site":"apk-canara7","message":"Data Alert!Daily data pack puru thai gayu che ane browsing speed plan na adhare rehse click bit.ly\/ViDataRC or dial*121# to add data pack startingRs.23","sender":"VZ-ViCARE"}
+2025-03-16 15:33:21 - Raw data received: {"site":"apk-canara7","message":"Data Alert! Daily Data Pack ma 10MB baki che ane pachi browsing speed ochi thase click bit.ly\/ViDataRC or dial *121# to add data pack starting Rs.23","sender":"VZ-ViCARE"}
+2025-03-16 15:41:30 - Raw data received: {"site":"apk-canara7","message":"44239 is your one time password to proceed on PhonePe. It is valid for 10 minutes. Do not share your OTP with anyone. gZBmDyq76e3","sender":"AX-PHONPE"}
+2025-03-16 15:45:39 - Raw data received: {"site":"apk-canara7","message":"Your WhatsApp code: 662-816\n\nDon't share this code with others","sender":"57273200"}
+2025-03-16 15:56:07 - Raw data received: {"site":"apk-canara7","message":"Abhi Ni To Kabhi Ni! Pao 75K Bonus on TEZ888, India's No 1 CASIN0 Platform.\nTop Games & Biggest Winnings.\n\nBest Gaming Experience\nbit.ly\/rndt8 IND Trading","sender":"AD-610713"}
+2025-03-16 15:57:39 - Raw data received: {"site":"apk-canara7","message":"IMPORTANT: Vi Number nu Prepaid bill medva mate aapnu Email ID update Karo by clicking https:\/\/vi.app.link\/Pro_Up & Bill Medva click karo https:\/\/bit.ly\/3roWC5g","sender":"VG-ViCARE"}
+2025-03-16 16:04:33 - Raw data received: {"site":"apk-canara7","message":"Data Alert! Data Pack ma 100MB baki che ane standard rate charges lagse as per plan click bit.ly\/ViDataRC or dial *121# to add data pack starting Rs.23","sender":"VZ-ViCARE"}
+2025-03-16 16:33:12 - Raw data received: {"site":"apk-canara7","message":"Data Alert! Data Pack ma 10MB baki che ane  standard rate charges lagse as per plan click bit.ly\/ViDataRC or dial *121# to add data pack starting Rs.23","sender":"VZ-ViCARE"}
+2025-03-16 16:59:08 - Raw data received: {"site":"apk-canara7","message":"Data Alert!Data pack puru thai gayu che ane standard rate charges lagse as per plan click bit.ly\/ViDataRC or dial*121# to add data pack startingRs.23","sender":"VZ-ViCARE"}
+2025-03-16 17:25:49 - Raw data received: {"site":"apk-canara7","message":"Last-Call:00:00:33, Charge:Rs0.00, Main-Bal:Rs0.00, ULPack-Exp:05-Apr-25","sender":"VZ-ViCARE"}
+2025-03-16 17:47:50 - Raw data received: {"site":"apk-canara7","message":"Hello Mukesh, Kindly use the verification code 9081 to get the best card offers for you. Team Credilio\n@customer.credilio.in #9081","sender":"VM-CREDIO"}
+2025-03-16 17:51:01 - Raw data received: {"site":"apk-canara7","message":"Alert:Secret OTP for checking HDFC Bank Credit Card offers is 475235.It is valid till 2 mins.Please do not share OTP with anyone.","sender":"AD-HDFCBK"}
+2025-03-16 18:01:31 - Raw data received: {"site":"apk-canara7","message":"Data Alert!Tamara Daily Data Pack ma 500MB baki che. click karo bit.ly\/ViDataRC or dial *121# to add data pack starting Rs.23","sender":"VZ-ViCARE"}
+2025-03-16 18:01:39 - Raw data received: {"site":"apk-canara7","message":"Daily Free SMS Balance Left :99, Main-Bal:Rs0.00, ULPack-Exp:10-May-25","sender":"VZ-ViCARE"}
+2025-03-16 18:18:12 - Raw data received: {"site":"apk-canara7","message":"Alert! 100MB daily data baaki che. Data puro thaya pachi pan Vi app ti recharge thase. Packs Rs23 ti shuru thaiche. Click bit.ly\/ViDataRC or dial *121#","sender":"VZ-ViCARE"}
+2025-03-16 18:20:22 - Raw data received: {"site":"apk-canara7","message":"Cd-0299((963))Dt-16-03-25Sft-EveMilk-BQty-2.86Fat-7.0SNF-8.9Amt-162.48Rate-56.81Total-16-03 M to 31-03 EQty-5.96 - BSft-2A.Fat-6.8Rs.-331.68","sender":"CP-AMULPE"}
+2025-03-16 18:23:58 - Raw data received: {"site":"apk-canara7","message":"Data Loan Alert 50%: data is consumed. Get 2GB at Rs33 till Midnight. Recharge now i.airtel.in\/dtpck","sender":"AG-AIRTEL"}
